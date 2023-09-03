@@ -1,0 +1,224 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "winners": [
+         "Tom Hanks"
+      ],
+      "info": [
+         "Forrest Gump"
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "winners": [
+         "Martin Landau"
+      ],
+      "info": [
+         "Ed Wood"
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "winners": [
+         "Jessica Lange"
+      ],
+      "info": [
+         "Blue Sky"
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "winners": [
+         "Dianne Wiest"
+      ],
+      "info": [
+         "Bullets Over Broadway"
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "winners": [
+         "The Madness of King George"
+      ],
+      "info": [
+         "Ken Adam",
+         "Carolyn Scott"
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "winners": [
+         "Legends of the Fall"
+      ],
+      "info": [
+         "John Toll"
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "winners": [
+         "The Adventures of Priscilla, Queen of the Desert"
+      ],
+      "info": [
+         "Lizzy Gardiner",
+         "Tim Chappel"
+      ]
+   },
+   {
+      "category": "Best Director",
+      "winners": [
+         "Robert Zemeckis"
+      ],
+      "info": [
+         "Forrest Gump"
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "winners": [
+         "Maya Lin: A Strong Clear Vision"
+      ],
+      "info": [
+         "Freida Lee Mock",
+         "Terry Sanders"
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "winners": [
+         "A Time for Justice"
+      ],
+      "info": [
+         "Charles Guggenheim"
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "winners": [
+         "Speed"
+      ],
+      "info": [
+         "Stephen Hunter Flick"
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "winners": [
+         "Forrest Gump"
+      ],
+      "info": [
+         "Ken Ralston",
+         "George Murphy",
+         "Stephen Rosenbaum",
+         "Allen Hall"
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "winners": [
+         "Forrest Gump"
+      ],
+      "info": [
+         "Arthur Schmidt"
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "winners": [
+         "Burnt by the Sun"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Makeup",
+      "winners": [
+         "Ed Wood"
+      ],
+      "info": [
+         "Rick Baker",
+         "Ve Neill",
+         "Yolanda Toussieng"
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "winners": [
+         "The Lion King"
+      ],
+      "info": [
+         "Hans Zimmer"
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "winners": [
+         "The Lion King"
+      ],
+      "info": [
+         "Elton John",
+         "Tim Rice"
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "winners": [
+         "Forrest Gump"
+      ],
+      "info": [
+         "Wendy Finerman",
+         "Steve Starkey",
+         "Steve Tisch"
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "winners": [
+         "Bob's Birthday"
+      ],
+      "info": [
+         "Alison Snowden",
+         "David Fine"
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "winners": [
+         "Franz Kafka's It's a Wonderful Life"
+      ],
+      "info": [
+         "Peter Capaldi",
+         "Ruth Kenley-Letts"
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "winners": [
+         "Speed"
+      ],
+      "info": [
+         "Gregg Landaker",
+         "Steve Maslow",
+         "Bob Beemer",
+         "David Macmillan"
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "winners": [
+         "Forrest Gump"
+      ],
+      "info": [
+         "Eric Roth"
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "winners": [
+         "Pulp Fiction"
+      ],
+      "info": [
+         "Quentin Tarantino",
+         "Roger Avary"
+      ]
+   }
+]

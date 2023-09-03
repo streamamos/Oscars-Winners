@@ -1,0 +1,232 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "winners": [
+         "Million Dollar Baby"
+      ],
+      "info": [
+         "Clint Eastwood",
+         "Albert S. Ruddy",
+         "Tom Rosenberg"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "winners": [
+         "Jamie Foxx"
+      ],
+      "info": [
+         "Ray"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "winners": [
+         "Hilary Swank"
+      ],
+      "info": [
+         "Million Dollar Baby"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "winners": [
+         "Morgan Freeman"
+      ],
+      "info": [
+         "Million Dollar Baby"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "winners": [
+         "Cate Blanchett"
+      ],
+      "info": [
+         "The Aviator"
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "winners": [
+         "Clint Eastwood"
+      ],
+      "info": [
+         "Million Dollar Baby"
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "winners": [
+         "Eternal Sunshine of the Spotless Mind"
+      ],
+      "info": [
+         "Charlie Kaufman",
+         "Michel Gondry",
+         "Pierre Bismuth"
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "winners": [
+         "Sideways"
+      ],
+      "info": [
+         "Alexander Payne",
+         "Jim Taylor"
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "winners": [
+         "The Aviator"
+      ],
+      "info": [
+         "Robert Richardson"
+      ]
+   },
+   {
+      "category": "Best Achievement in Art Direction",
+      "winners": [
+         "The Aviator"
+      ],
+      "info": [
+         "Dante Ferretti",
+         "Francesca Lo Schiavo"
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "winners": [
+         "The Aviator"
+      ],
+      "info": [
+         "Thelma Schoonmaker"
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "winners": [
+         "The Aviator"
+      ],
+      "info": [
+         "Sandy Powell"
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
+      "winners": [
+         "The Motorcycle Diaries"
+      ],
+      "info": [
+         "Jorge Drexler"
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
+      "winners": [
+         "Finding Neverland"
+      ],
+      "info": [
+         "Jan A.P. Kaczmarek"
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "winners": [
+         "Ray"
+      ],
+      "info": [
+         "Scott Millan",
+         "Greg Orloff",
+         "Bob Beemer",
+         "Steve Cantamessa"
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "winners": [
+         "The Incredibles"
+      ],
+      "info": [
+         "Michael Silvers",
+         "Randy Thom"
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "winners": [
+         "Spider-Man 2"
+      ],
+      "info": [
+         "John Dykstra",
+         "Scott Stokdyk",
+         "Anthony LaMolinara",
+         "John Frazier"
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "winners": [
+         "Ryan"
+      ],
+      "info": [
+         "Chris Landreth"
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "winners": [
+         "Wasp"
+      ],
+      "info": [
+         "Andrea Arnold"
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "winners": [
+         "Mighty Times: The Children's March"
+      ],
+      "info": [
+         "Robert Hudson",
+         "Robert Houston"
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "winners": [
+         "Born Into Brothels: Calcutta's Red Light Kids"
+      ],
+      "info": [
+         "Ross Kauffman",
+         "Zana Briski"
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "winners": [
+         "The Sea Inside"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Animated Feature Film of the Year",
+      "winners": [
+         "The Incredibles"
+      ],
+      "info": [
+         "Brad Bird"
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup",
+      "winners": [
+         "A Series of Unfortunate Events"
+      ],
+      "info": [
+         "Valli O'Reilly",
+         "Bill Corso"
+      ]
+   }
+]

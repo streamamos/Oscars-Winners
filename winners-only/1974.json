@@ -1,0 +1,197 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "winners": [
+         "Jack Lemmon"
+      ],
+      "info": [
+         "Save the Tiger"
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "winners": [
+         "John Houseman"
+      ],
+      "info": [
+         "The Paper Chase"
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "winners": [
+         "Glenda Jackson"
+      ],
+      "info": [
+         "A Touch of Class"
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "winners": [
+         "Tatum O'Neal"
+      ],
+      "info": [
+         "Paper Moon"
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "winners": [
+         "The Sting"
+      ],
+      "info": [
+         "Henry Bumstead",
+         "James W. Payne"
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "winners": [
+         "Cries & Whispers"
+      ],
+      "info": [
+         "Sven Nykvist"
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "winners": [
+         "The Sting"
+      ],
+      "info": [
+         "Edith Head"
+      ]
+   },
+   {
+      "category": "Best Director",
+      "winners": [
+         "George Roy Hill"
+      ],
+      "info": [
+         "The Sting"
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "winners": [
+         "The Great American Cowboy"
+      ],
+      "info": [
+         "Kieth Merrill"
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "winners": [
+         "Princeton: A Search for Answers"
+      ],
+      "info": [
+         "Julian Krainin",
+         "DeWitt Sage"
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "winners": [
+         "The Sting"
+      ],
+      "info": [
+         "William Reynolds"
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "winners": [
+         "Day for Night"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Music, Original Dramatic Score",
+      "winners": [
+         "The Way We Were"
+      ],
+      "info": [
+         "Marvin Hamlisch"
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "winners": [
+         "The Way We Were"
+      ],
+      "info": [
+         "Marvin Hamlisch",
+         "Alan Bergman",
+         "Marilyn Bergman"
+      ]
+   },
+   {
+      "category": "Best Music, Scoring Original Song Score and/or Adaptation",
+      "winners": [
+         "The Sting"
+      ],
+      "info": [
+         "Marvin Hamlisch"
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "winners": [
+         "The Sting"
+      ],
+      "info": [
+         "Tony Bill",
+         "Michael Phillips",
+         "Julia Phillips"
+      ]
+   },
+   {
+      "category": "Best Short Subject, Animated Films",
+      "winners": [
+         "Frank Film"
+      ],
+      "info": [
+         "Frank Mouris"
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Films",
+      "winners": [
+         "The Bolero"
+      ],
+      "info": [
+         "Allan Miller",
+         "William Fertik"
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "winners": [
+         "The Exorcist"
+      ],
+      "info": [
+         "Robert Knudson",
+         "Christopher Newman"
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "winners": [
+         "The Exorcist"
+      ],
+      "info": [
+         "William Peter Blatty"
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay Based on Factual Material or Material Not Previously Published or Produced",
+      "winners": [
+         "The Sting"
+      ],
+      "info": [
+         "David S. Ward"
+      ]
+   }
+]

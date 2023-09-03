@@ -1,0 +1,222 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "winners": [
+         "Anthony Hopkins"
+      ],
+      "info": [
+         "The Silence of the Lambs"
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "winners": [
+         "Jack Palance"
+      ],
+      "info": [
+         "City Slickers"
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "winners": [
+         "Jodie Foster"
+      ],
+      "info": [
+         "The Silence of the Lambs"
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "winners": [
+         "Mercedes Ruehl"
+      ],
+      "info": [
+         "The Fisher King"
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "winners": [
+         "Bugsy"
+      ],
+      "info": [
+         "Dennis Gassner",
+         "Nancy Haigh"
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "winners": [
+         "JFK"
+      ],
+      "info": [
+         "Robert Richardson"
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "winners": [
+         "Bugsy"
+      ],
+      "info": [
+         "Albert Wolsky"
+      ]
+   },
+   {
+      "category": "Best Director",
+      "winners": [
+         "Jonathan Demme"
+      ],
+      "info": [
+         "The Silence of the Lambs"
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "winners": [
+         "In the Shadow of the Stars"
+      ],
+      "info": [
+         "Allie Light",
+         "Irving Saraf"
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "winners": [
+         "Deadly Deception: General Electric, Nuclear Weapons and Our Environment"
+      ],
+      "info": [
+         "Debra Chasnoff"
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "winners": [
+         "Terminator 2: Judgment Day"
+      ],
+      "info": [
+         "Gary Rydstrom",
+         "Gloria S. Borders"
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "winners": [
+         "Terminator 2: Judgment Day"
+      ],
+      "info": [
+         "Dennis Muren",
+         "Stan Winston",
+         "Gene Warren Jr.",
+         "Robert Skotak"
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "winners": [
+         "JFK"
+      ],
+      "info": [
+         "Joe Hutshing",
+         "Pietro Scalia"
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "winners": [
+         "Mediterraneo"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Makeup",
+      "winners": [
+         "Terminator 2: Judgment Day"
+      ],
+      "info": [
+         "Stan Winston",
+         "Jeff Dawn"
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "winners": [
+         "Beauty and the Beast"
+      ],
+      "info": [
+         "Alan Menken"
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "winners": [
+         "Beauty and the Beast"
+      ],
+      "info": [
+         "Alan Menken",
+         "Howard Ashman"
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "winners": [
+         "The Silence of the Lambs"
+      ],
+      "info": [
+         "Edward Saxon",
+         "Kenneth Utt",
+         "Ron Bozman"
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "winners": [
+         "Manipulation"
+      ],
+      "info": [
+         "Daniel Greaves"
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "winners": [
+         "Session Man"
+      ],
+      "info": [
+         "Seth Winston",
+         "Robert N. Fried"
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "winners": [
+         "Terminator 2: Judgment Day"
+      ],
+      "info": [
+         "Tom Johnson",
+         "Gary Rydstrom",
+         "Gary Summers",
+         "Lee Orloff"
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "winners": [
+         "The Silence of the Lambs"
+      ],
+      "info": [
+         "Ted Tally"
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "winners": [
+         "Thelma & Louise"
+      ],
+      "info": [
+         "Callie Khouri"
+      ]
+   }
+]

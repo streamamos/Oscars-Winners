@@ -1,0 +1,234 @@
+[
+   {
+      "category": "Best Picture",
+      "winners": [
+         "The Lord of the Rings: The Return of the King"
+      ],
+      "info": [
+         "Barrie M. Osborne",
+         "Peter Jackson",
+         "Fran Walsh"
+      ]
+   },
+   {
+      "category": "Best Actor in a Leading Role",
+      "winners": [
+         "Sean Penn"
+      ],
+      "info": [
+         "Mystic River"
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "winners": [
+         "Charlize Theron"
+      ],
+      "info": [
+         "Monster"
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "winners": [
+         "Tim Robbins"
+      ],
+      "info": [
+         "Mystic River"
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "winners": [
+         "Ren\u00e9e Zellweger"
+      ],
+      "info": [
+         "Cold Mountain"
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "winners": [
+         "Lost in Translation"
+      ],
+      "info": [
+         "Sofia Coppola"
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "winners": [
+         "The Lord of the Rings: The Return of the King"
+      ],
+      "info": [
+         "Fran Walsh",
+         "Philippa Boyens",
+         "Peter Jackson"
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "winners": [
+         "The Barbarian Invasions"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Cinematography",
+      "winners": [
+         "Master and Commander: The Far Side of the World"
+      ],
+      "info": [
+         "Russell Boyd"
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "winners": [
+         "The Lord of the Rings: The Return of the King"
+      ],
+      "info": [
+         "Ngila Dickson",
+         "Richard Taylor"
+      ]
+   },
+   {
+      "category": "Best Sound Editing",
+      "winners": [
+         "Master and Commander: The Far Side of the World"
+      ],
+      "info": [
+         "Richard King"
+      ]
+   },
+   {
+      "category": "Best Sound Mixing",
+      "winners": [
+         "The Lord of the Rings: The Return of the King"
+      ],
+      "info": [
+         "Christopher Boyes",
+         "Michael Semanick",
+         "Michael Hedges",
+         "Hammond Peek"
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "winners": [
+         "The Lord of the Rings: The Return of the King"
+      ],
+      "info": [
+         "Jamie Selkirk"
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "winners": [
+         "The Lord of the Rings: The Return of the King"
+      ],
+      "info": [
+         "Richard Taylor",
+         "Peter Swords King"
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "winners": [
+         "The Lord of the Rings: The Return of the King"
+      ],
+      "info": [
+         "Fran Walsh",
+         "Howard Shore",
+         "Annie Lennox"
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "winners": [
+         "The Lord of the Rings: The Return of the King"
+      ],
+      "info": [
+         "Howard Shore"
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "winners": [
+         "Harvie Krumpet"
+      ],
+      "info": [
+         "Adam Elliot"
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "winners": [
+         "Two Soldiers"
+      ],
+      "info": [
+         "Aaron Schneider",
+         "Andrew J. Sacks"
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "winners": [
+         "Chernobyl Heart"
+      ],
+      "info": [
+         "Maryann DeLeo"
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "winners": [
+         "The Fog of War"
+      ],
+      "info": [
+         "Errol Morris",
+         "Michael Williams"
+      ]
+   },
+   {
+      "category": "Best Animated Feature",
+      "winners": [
+         "Finding Nemo"
+      ],
+      "info": [
+         "Andrew Stanton"
+      ]
+   },
+   {
+      "category": "Best Visual Effects",
+      "winners": [
+         "The Lord of the Rings: The Return of the King"
+      ],
+      "info": [
+         "Jim Rygiel",
+         "Joe Letteri",
+         "Randall William Cook",
+         "Alex Funke"
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "winners": [
+         "The Lord of the Rings: The Return of the King"
+      ],
+      "info": [
+         "Grant Major",
+         "Dan Hennah",
+         "Alan Lee"
+      ]
+   },
+   {
+      "category": "Best Director",
+      "winners": [
+         "Peter Jackson"
+      ],
+      "info": [
+         "The Lord of the Rings: The Return of the King"
+      ]
+   }
+]

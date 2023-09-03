@@ -1,0 +1,231 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "winners": [
+         "Nicolas Cage"
+      ],
+      "info": [
+         "Leaving Las Vegas"
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "winners": [
+         "Kevin Spacey"
+      ],
+      "info": [
+         "The Usual Suspects"
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "winners": [
+         "Susan Sarandon"
+      ],
+      "info": [
+         "Dead Man Walking"
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "winners": [
+         "Mira Sorvino"
+      ],
+      "info": [
+         "Mighty Aphrodite"
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "winners": [
+         "Restoration"
+      ],
+      "info": [
+         "Eugenio Zanetti"
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "winners": [
+         "Braveheart"
+      ],
+      "info": [
+         "John Toll"
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "winners": [
+         "Restoration"
+      ],
+      "info": [
+         "James Acheson"
+      ]
+   },
+   {
+      "category": "Best Director",
+      "winners": [
+         "Mel Gibson"
+      ],
+      "info": [
+         "Braveheart"
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "winners": [
+         "Anne Frank Remembered"
+      ],
+      "info": [
+         "Jon Blair"
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "winners": [
+         "One Survivor Remembers"
+      ],
+      "info": [
+         "Kary Antholis"
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "winners": [
+         "Braveheart"
+      ],
+      "info": [
+         "Lon Bender",
+         "Per Hallberg"
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "winners": [
+         "Babe"
+      ],
+      "info": [
+         "Scott E. Anderson",
+         "Charles Gibson",
+         "Neal Scanlan",
+         "John Cox"
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "winners": [
+         "Apollo 13"
+      ],
+      "info": [
+         "Mike Hill",
+         "Daniel P. Hanley"
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "winners": [
+         "Antonia's Line"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Makeup",
+      "winners": [
+         "Braveheart"
+      ],
+      "info": [
+         "Peter Frampton",
+         "Paul Pattison",
+         "Lois Burwell"
+      ]
+   },
+   {
+      "category": "Best Music, Original Dramatic Score",
+      "winners": [
+         "The Postman"
+      ],
+      "info": [
+         "Luis Bacalov"
+      ]
+   },
+   {
+      "category": "Best Music, Original Musical or Comedy Score",
+      "winners": [
+         "Pocahontas"
+      ],
+      "info": [
+         "Alan Menken",
+         "Stephen Schwartz"
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "winners": [
+         "Pocahontas"
+      ],
+      "info": [
+         "Alan Menken",
+         "Stephen Schwartz"
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "winners": [
+         "Braveheart"
+      ],
+      "info": [
+         "Mel Gibson",
+         "Alan Ladd Jr.",
+         "Bruce Davey"
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "winners": [
+         "Wallace & Gromit: A Close Shave"
+      ],
+      "info": [
+         "Nick Park"
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "winners": [
+         "Lieberman in Love"
+      ],
+      "info": [
+         "Christine Lahti",
+         "Jana Sue Memel"
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "winners": [
+         "Apollo 13"
+      ],
+      "info": [
+         "Rick Dior",
+         "Steve Pederson",
+         "Scott Millan",
+         "David Macmillan"
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "winners": [
+         "Sense and Sensibility"
+      ],
+      "info": [
+         "Emma Thompson"
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "winners": [
+         "The Usual Suspects"
+      ],
+      "info": [
+         "Christopher McQuarrie"
+      ]
+   }
+]

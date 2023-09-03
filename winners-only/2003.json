@@ -1,0 +1,229 @@
+[
+   {
+      "category": "Best Picture",
+      "winners": [
+         "Chicago"
+      ],
+      "info": [
+         "Martin Richards"
+      ]
+   },
+   {
+      "category": "Best Actor in a Leading Role",
+      "winners": [
+         "Adrien Brody"
+      ],
+      "info": [
+         "The Pianist"
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "winners": [
+         "Nicole Kidman"
+      ],
+      "info": [
+         "The Hours"
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "winners": [
+         "Chris Cooper"
+      ],
+      "info": [
+         "Adaptation."
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "winners": [
+         "Catherine Zeta-Jones"
+      ],
+      "info": [
+         "Chicago"
+      ]
+   },
+   {
+      "category": "Best Director",
+      "winners": [
+         "Roman Polanski"
+      ],
+      "info": [
+         "The Pianist"
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "winners": [
+         "Talk to Her"
+      ],
+      "info": [
+         "Pedro Almod\u00f3var"
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "winners": [
+         "The Pianist"
+      ],
+      "info": [
+         "Ronald Harwood"
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "winners": [
+         "Nowhere in Africa"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Cinematography",
+      "winners": [
+         "Road to Perdition"
+      ],
+      "info": [
+         "Conrad L. Hall"
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "winners": [
+         "Chicago"
+      ],
+      "info": [
+         "John Myhre",
+         "Gordon Sim"
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "winners": [
+         "Chicago"
+      ],
+      "info": [
+         "Colleen Atwood"
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "winners": [
+         "Chicago"
+      ],
+      "info": [
+         "Michael Minkler",
+         "Dominick Tavella",
+         "David Lee"
+      ]
+   },
+   {
+      "category": "Best Sound Editing",
+      "winners": [
+         "The Lord of the Rings: The Two Towers"
+      ],
+      "info": [
+         "Ethan Van der Ryn",
+         "Mike Hopkins"
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "winners": [
+         "Chicago"
+      ],
+      "info": [
+         "Martin Walsh"
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "winners": [
+         "Frida"
+      ],
+      "info": [
+         "John E. Jackson",
+         "Beatrice De Alba"
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "winners": [
+         "8 Mile"
+      ],
+      "info": [
+         "Eminem",
+         "Jeff Bass",
+         "Luis Resto"
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "winners": [
+         "Frida"
+      ],
+      "info": [
+         "Elliot Goldenthal"
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "winners": [
+         "The Chubbchubbs!"
+      ],
+      "info": [
+         "Eric Armstrong"
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "winners": [
+         "This Charming Man"
+      ],
+      "info": [
+         "Martin Strange-Hansen",
+         "Mie Andreasen"
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "winners": [
+         "Twin Towers"
+      ],
+      "info": [
+         "Bill Guttentag",
+         "Robert David Port"
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "winners": [
+         "Bowling for Columbine"
+      ],
+      "info": [
+         "Michael Moore",
+         "Michael Donovan"
+      ]
+   },
+   {
+      "category": "Best Animated Feature",
+      "winners": [
+         "Spirited Away"
+      ],
+      "info": [
+         "Hayao Miyazaki"
+      ]
+   },
+   {
+      "category": "Best Visual Effects",
+      "winners": [
+         "The Lord of the Rings: The Two Towers"
+      ],
+      "info": [
+         "Jim Rygiel",
+         "Joe Letteri",
+         "Randall William Cook",
+         "Alex Funke"
+      ]
+   }
+]

@@ -1,0 +1,211 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "winners": [
+         "Henry Fonda"
+      ],
+      "info": [
+         "On Golden Pond"
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "winners": [
+         "John Gielgud"
+      ],
+      "info": [
+         "Arthur"
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "winners": [
+         "Katharine Hepburn"
+      ],
+      "info": [
+         "On Golden Pond"
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "winners": [
+         "Maureen Stapleton"
+      ],
+      "info": [
+         "Reds"
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "winners": [
+         "Indiana Jones and the Raiders of the Lost Ark"
+      ],
+      "info": [
+         "Norman Reynolds",
+         "Leslie Dilley",
+         "Michael Ford"
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "winners": [
+         "Reds"
+      ],
+      "info": [
+         "Vittorio Storaro"
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "winners": [
+         "Chariots of Fire"
+      ],
+      "info": [
+         "Milena Canonero"
+      ]
+   },
+   {
+      "category": "Best Director",
+      "winners": [
+         "Warren Beatty"
+      ],
+      "info": [
+         "Reds"
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "winners": [
+         "Genocide"
+      ],
+      "info": [
+         "Arnold Schwartzman",
+         "Marvin Hier"
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "winners": [
+         "Close Harmony"
+      ],
+      "info": [
+         "Nigel Noble"
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "winners": [
+         "Indiana Jones and the Raiders of the Lost Ark"
+      ],
+      "info": [
+         "Richard Edlund",
+         "Kit West",
+         "Bruce Nicholson",
+         "Joe Johnston"
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "winners": [
+         "Indiana Jones and the Raiders of the Lost Ark"
+      ],
+      "info": [
+         "Michael Kahn"
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "winners": [
+         "Mephisto"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Makeup",
+      "winners": [
+         "An American Werewolf in London"
+      ],
+      "info": [
+         "Rick Baker"
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "winners": [
+         "Chariots of Fire"
+      ],
+      "info": [
+         "Vangelis"
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "winners": [
+         "Arthur"
+      ],
+      "info": [
+         "Burt Bacharach",
+         "Carole Bayer Sager",
+         "Christopher Cross",
+         "Peter Allen"
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "winners": [
+         "Chariots of Fire"
+      ],
+      "info": [
+         "David Puttnam"
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "winners": [
+         "Crac"
+      ],
+      "info": [
+         "Fr\u00e9d\u00e9ric Back"
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "winners": [
+         "Violet"
+      ],
+      "info": [
+         "Paul Kemp",
+         "Shelley Levinson"
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "winners": [
+         "Indiana Jones and the Raiders of the Lost Ark"
+      ],
+      "info": [
+         "Bill Varney",
+         "Steve Maslow",
+         "Gregg Landaker",
+         "Roy Charman"
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "winners": [
+         "On Golden Pond"
+      ],
+      "info": [
+         "Ernest Thompson"
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "winners": [
+         "Chariots of Fire"
+      ],
+      "info": [
+         "Colin Welland"
+      ]
+   }
+]

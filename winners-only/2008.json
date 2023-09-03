@@ -1,0 +1,232 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "winners": [
+         "No Country for Old Men"
+      ],
+      "info": [
+         "Scott Rudin",
+         "Ethan Coen",
+         "Joel Coen"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "winners": [
+         "Daniel Day-Lewis"
+      ],
+      "info": [
+         "There Will Be Blood"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "winners": [
+         "Marion Cotillard"
+      ],
+      "info": [
+         "La Vie En Rose"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "winners": [
+         "Javier Bardem"
+      ],
+      "info": [
+         "No Country for Old Men"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "winners": [
+         "Tilda Swinton"
+      ],
+      "info": [
+         "Michael Clayton"
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "winners": [
+         "Ethan Coen",
+         "Joel Coen"
+      ],
+      "info": [
+         "No Country for Old Men"
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "winners": [
+         "Juno"
+      ],
+      "info": [
+         "Diablo Cody"
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "winners": [
+         "No Country for Old Men"
+      ],
+      "info": [
+         "Joel Coen",
+         "Ethan Coen"
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "winners": [
+         "There Will Be Blood"
+      ],
+      "info": [
+         "Robert Elswit"
+      ]
+   },
+   {
+      "category": "Best Achievement in Art Direction",
+      "winners": [
+         "Sweeney Todd: The Demon Barber of Fleet Street"
+      ],
+      "info": [
+         "Dante Ferretti",
+         "Francesca Lo Schiavo"
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "winners": [
+         "The Bourne Ultimatum"
+      ],
+      "info": [
+         "Christopher Rouse"
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "winners": [
+         "Elizabeth: The Golden Age"
+      ],
+      "info": [
+         "Alexandra Byrne"
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
+      "winners": [
+         "Once"
+      ],
+      "info": [
+         "Glen Hansard",
+         "Mark\u00e9ta Irglov\u00e1"
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
+      "winners": [
+         "Atonement"
+      ],
+      "info": [
+         "Dario Marianelli"
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "winners": [
+         "The Bourne Ultimatum"
+      ],
+      "info": [
+         "Scott Millan",
+         "David Parker",
+         "Kirk Francis"
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "winners": [
+         "The Bourne Ultimatum"
+      ],
+      "info": [
+         "Karen Baker Landers",
+         "Per Hallberg"
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "winners": [
+         "The Golden Compass"
+      ],
+      "info": [
+         "Michael L. Fink",
+         "Bill Westenhofer",
+         "Ben Morris",
+         "Trevor Wood"
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "winners": [
+         "Peter and The Wolf"
+      ],
+      "info": [
+         "Suzie Templeton",
+         "Hugh Welchman"
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "winners": [
+         "The Mozart of Pickpockets"
+      ],
+      "info": [
+         "Philippe Pollet-Villard"
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "winners": [
+         "Freeheld"
+      ],
+      "info": [
+         "Cynthia Wade",
+         "Vanessa Roth"
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "winners": [
+         "Taxi to the Dark Side"
+      ],
+      "info": [
+         "Alex Gibney",
+         "Eva Orner"
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "winners": [
+         "The Counterfeiters"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Animated Feature Film of the Year",
+      "winners": [
+         "Ratatouille"
+      ],
+      "info": [
+         "Brad Bird"
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup",
+      "winners": [
+         "La Vie En Rose"
+      ],
+      "info": [
+         "Didier Lavergne",
+         "Jan Archibald"
+      ]
+   }
+]

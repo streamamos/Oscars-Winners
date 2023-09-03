@@ -1,0 +1,183 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "winners": [
+         "Robert Donat"
+      ],
+      "info": [
+         "Goodbye, Mr. Chips"
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "winners": [
+         "Thomas Mitchell"
+      ],
+      "info": [
+         "Stagecoach"
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "winners": [
+         "Vivien Leigh"
+      ],
+      "info": [
+         "Gone with the Wind"
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "winners": [
+         "Hattie McDaniel"
+      ],
+      "info": [
+         "Gone with the Wind"
+      ]
+   },
+   {
+      "category": "Best Art Direction",
+      "winners": [
+         "Gone with the Wind"
+      ],
+      "info": [
+         "Lyle R. Wheeler"
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "winners": [
+         "Wuthering Heights"
+      ],
+      "info": [
+         "Gregg Toland"
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "winners": [
+         "Gone with the Wind"
+      ],
+      "info": [
+         "Ernest Haller",
+         "Ray Rennahan"
+      ]
+   },
+   {
+      "category": "Best Director",
+      "winners": [
+         "Victor Fleming"
+      ],
+      "info": [
+         "Gone with the Wind"
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "winners": [
+         "The Rains Came"
+      ],
+      "info": [
+         "Fred Sersen",
+         "Edmund H. Hansen"
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "winners": [
+         "Gone with the Wind"
+      ],
+      "info": [
+         "Hal C. Kern",
+         "James E. Newcom"
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "winners": [
+         "The Wizard of Oz"
+      ],
+      "info": [
+         "Herbert Stothart"
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "winners": [
+         "The Wizard of Oz"
+      ],
+      "info": [
+         "Harold Arlen",
+         "E.Y. Harburg"
+      ]
+   },
+   {
+      "category": "Best Music, Scoring",
+      "winners": [
+         "Stagecoach"
+      ],
+      "info": [
+         "Richard Hageman",
+         "W. Franke Harling",
+         "John Leipold",
+         "Leo Shuken"
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "winners": [
+         "Gone with the Wind"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "winners": [
+         "Ugly Duckling"
+      ],
+      "info": [
+         "Walt Disney"
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "winners": [
+         "Busy Little Bears"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "winners": [
+         "Sons of Liberty"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Sound, Recording",
+      "winners": [
+         "When Tomorrow Comes"
+      ],
+      "info": [
+         "Bernard B. Brown"
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "winners": [
+         "Mr. Smith Goes to Washington"
+      ],
+      "info": [
+         "Lewis R. Foster"
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "winners": [
+         "Gone with the Wind"
+      ],
+      "info": [
+         "Sidney Howard"
+      ]
+   }
+]

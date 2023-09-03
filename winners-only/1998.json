@@ -1,0 +1,234 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "winners": [
+         "Jack Nicholson"
+      ],
+      "info": [
+         "As Good as It Gets"
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "winners": [
+         "Robin Williams"
+      ],
+      "info": [
+         "Good Will Hunting"
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "winners": [
+         "Helen Hunt"
+      ],
+      "info": [
+         "As Good as It Gets"
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "winners": [
+         "Kim Basinger"
+      ],
+      "info": [
+         "L.A. Confidential"
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "winners": [
+         "Titanic"
+      ],
+      "info": [
+         "Peter Lamont",
+         "Michael Ford"
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "winners": [
+         "Titanic"
+      ],
+      "info": [
+         "Russell Carpenter"
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "winners": [
+         "Titanic"
+      ],
+      "info": [
+         "Deborah L. Scott"
+      ]
+   },
+   {
+      "category": "Best Director",
+      "winners": [
+         "James Cameron"
+      ],
+      "info": [
+         "Titanic"
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "winners": [
+         "The Long Way Home"
+      ],
+      "info": [
+         "Marvin Hier",
+         "Richard Trank"
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "winners": [
+         "A Story of Healing"
+      ],
+      "info": [
+         "Donna Dewey",
+         "Carol Pasternak"
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "winners": [
+         "Titanic"
+      ],
+      "info": [
+         "Tom Bellfort",
+         "Christopher Boyes"
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "winners": [
+         "Titanic"
+      ],
+      "info": [
+         "Robert Legato",
+         "Mark A. Lasoff",
+         "Thomas L. Fisher",
+         "Michael Kanfer"
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "winners": [
+         "Titanic"
+      ],
+      "info": [
+         "Conrad Buff IV",
+         "James Cameron",
+         "Richard A. Harris"
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "winners": [
+         "Character"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Makeup",
+      "winners": [
+         "Men in Black"
+      ],
+      "info": [
+         "Rick Baker",
+         "David LeRoy Anderson"
+      ]
+   },
+   {
+      "category": "Best Music, Original Dramatic Score",
+      "winners": [
+         "Titanic"
+      ],
+      "info": [
+         "James Horner"
+      ]
+   },
+   {
+      "category": "Best Music, Original Musical or Comedy Score",
+      "winners": [
+         "The Full Monty"
+      ],
+      "info": [
+         "Anne Dudley"
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "winners": [
+         "Titanic"
+      ],
+      "info": [
+         "James Horner",
+         "Will Jennings"
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "winners": [
+         "Titanic"
+      ],
+      "info": [
+         "James Cameron",
+         "Jon Landau"
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "winners": [
+         "Geri's Game"
+      ],
+      "info": [
+         "Jan Pinkava"
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "winners": [
+         "Visas and Virtue"
+      ],
+      "info": [
+         "Chris Tashima",
+         "Chris Donahue"
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "winners": [
+         "Titanic"
+      ],
+      "info": [
+         "Gary Rydstrom",
+         "Tom Johnson",
+         "Gary Summers",
+         "Mark Ulano"
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "winners": [
+         "L.A. Confidential"
+      ],
+      "info": [
+         "Brian Helgeland",
+         "Curtis Hanson"
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "winners": [
+         "Good Will Hunting"
+      ],
+      "info": [
+         "Matt Damon",
+         "Ben Affleck"
+      ]
+   }
+]

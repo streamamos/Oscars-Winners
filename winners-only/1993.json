@@ -1,0 +1,220 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "winners": [
+         "Al Pacino"
+      ],
+      "info": [
+         "Scent of a Woman"
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "winners": [
+         "Gene Hackman"
+      ],
+      "info": [
+         "Unforgiven"
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "winners": [
+         "Emma Thompson"
+      ],
+      "info": [
+         "Howards End"
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "winners": [
+         "Marisa Tomei"
+      ],
+      "info": [
+         "My Cousin Vinny"
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "winners": [
+         "Howards End"
+      ],
+      "info": [
+         "Luciana Arrighi",
+         "Ian Whittaker"
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "winners": [
+         "A River Runs Through It"
+      ],
+      "info": [
+         "Philippe Rousselot"
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "winners": [
+         "Bram Stoker's Dracula"
+      ],
+      "info": [
+         "Eiko Ishioka"
+      ]
+   },
+   {
+      "category": "Best Director",
+      "winners": [
+         "Clint Eastwood"
+      ],
+      "info": [
+         "Unforgiven"
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "winners": [
+         "The Panama Deception"
+      ],
+      "info": [
+         "Barbara Trent",
+         "David Kasper"
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "winners": [
+         "Educating Peter"
+      ],
+      "info": [
+         "Thomas C. Goodwin",
+         "Gerardine Wurzburg"
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "winners": [
+         "Bram Stoker's Dracula"
+      ],
+      "info": [
+         "Tom C. McCarthy",
+         "David E. Stone"
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "winners": [
+         "Death Becomes Her"
+      ],
+      "info": [
+         "Ken Ralston",
+         "Doug Chiang",
+         "Douglas Smythe",
+         "Tom Woodruff Jr."
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "winners": [
+         "Unforgiven"
+      ],
+      "info": [
+         "Joel Cox"
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "winners": [
+         "Indochine"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Makeup",
+      "winners": [
+         "Bram Stoker's Dracula"
+      ],
+      "info": [
+         "Greg Cannom",
+         "Mich\u00e8le Burke",
+         "Matthew W. Mungle"
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "winners": [
+         "Aladdin"
+      ],
+      "info": [
+         "Alan Menken"
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "winners": [
+         "Aladdin"
+      ],
+      "info": [
+         "Alan Menken",
+         "Tim Rice"
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "winners": [
+         "Unforgiven"
+      ],
+      "info": [
+         "Clint Eastwood"
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "winners": [
+         "Mona Lisa Descending a Staircase"
+      ],
+      "info": [
+         "Joan C. Gratz"
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "winners": [
+         "Omnibus"
+      ],
+      "info": [
+         "Sam Karmann"
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "winners": [
+         "The Last of the Mohicans"
+      ],
+      "info": [
+         "Chris Jenkins",
+         "Doug Hemphill",
+         "Mark Smith",
+         "Simon Kaye"
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "winners": [
+         "Howards End"
+      ],
+      "info": [
+         "Ruth Prawer Jhabvala"
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "winners": [
+         "The Crying Game"
+      ],
+      "info": [
+         "Neil Jordan"
+      ]
+   }
+]

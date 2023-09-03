@@ -1,0 +1,163 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "winners": [
+         "Spencer Tracy"
+      ],
+      "info": [
+         "Boys Town"
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "winners": [
+         "Walter Brennan"
+      ],
+      "info": [
+         "Kentucky"
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "winners": [
+         "Bette Davis"
+      ],
+      "info": [
+         "Jezebel"
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "winners": [
+         "Fay Bainter"
+      ],
+      "info": [
+         "Jezebel"
+      ]
+   },
+   {
+      "category": "Best Art Direction",
+      "winners": [
+         "The Adventures of Robin Hood"
+      ],
+      "info": [
+         "Carl Jules Weyl"
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "winners": [
+         "The Great Waltz"
+      ],
+      "info": [
+         "Joseph Ruttenberg"
+      ]
+   },
+   {
+      "category": "Best Director",
+      "winners": [
+         "Frank Capra"
+      ],
+      "info": [
+         "You Can't Take It with You"
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "winners": [
+         "The Adventures of Robin Hood"
+      ],
+      "info": [
+         "Ralph Dawson"
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "winners": [
+         "The Adventures of Robin Hood"
+      ],
+      "info": [
+         "Erich Wolfgang Korngold"
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "winners": [
+         "The Big Broadcast of 1938"
+      ],
+      "info": [
+         "Ralph Rainger",
+         "Leo Robin"
+      ]
+   },
+   {
+      "category": "Best Music, Scoring",
+      "winners": [
+         "Alexander's Ragtime Band"
+      ],
+      "info": [
+         "Alfred Newman"
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "winners": [
+         "You Can't Take It with You"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "winners": [
+         "Ferdinand the Bull"
+      ],
+      "info": [
+         "Walt Disney"
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "winners": [
+         "That Mothers Might Live"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "winners": [
+         "The Declaration of Independence"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Sound, Recording",
+      "winners": [
+         "The Cowboy and the Lady"
+      ],
+      "info": [
+         "Thomas T. Moulton"
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "winners": [
+         "Boys Town"
+      ],
+      "info": [
+         "Eleanore Griffin",
+         "Dore Schary"
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "winners": [
+         "Pygmalion"
+      ],
+      "info": [
+         "George Bernard Shaw",
+         "Ian Dalrymple",
+         "Cecil Lewis",
+         "W.P. Lipscomb"
+      ]
+   }
+]

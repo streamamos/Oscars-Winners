@@ -1,0 +1,232 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "winners": [
+         "The Shape of Water"
+      ],
+      "info": [
+         "Guillermo del Toro",
+         "J. Miles Dale"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "winners": [
+         "Gary Oldman"
+      ],
+      "info": [
+         "Darkest Hour"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "winners": [
+         "Frances McDormand"
+      ],
+      "info": [
+         "Three Billboards Outside Ebbing, Missouri"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "winners": [
+         "Sam Rockwell"
+      ],
+      "info": [
+         "Three Billboards Outside Ebbing, Missouri"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "winners": [
+         "Allison Janney"
+      ],
+      "info": [
+         "I, Tonya"
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "winners": [
+         "Guillermo del Toro"
+      ],
+      "info": [
+         "The Shape of Water"
+      ]
+   },
+   {
+      "category": "Best Original Screenplay",
+      "winners": [
+         "Get Out"
+      ],
+      "info": [
+         "Jordan Peele"
+      ]
+   },
+   {
+      "category": "Best Adapted Screenplay",
+      "winners": [
+         "Call Me by Your Name"
+      ],
+      "info": [
+         "James Ivory"
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "winners": [
+         "Blade Runner 2049"
+      ],
+      "info": [
+         "Roger Deakins"
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "winners": [
+         "Dunkirk"
+      ],
+      "info": [
+         "Lee Smith"
+      ]
+   },
+   {
+      "category": "Best Achievement in Production Design",
+      "winners": [
+         "The Shape of Water"
+      ],
+      "info": [
+         "Paul D. Austerberry",
+         "Shane Vieau",
+         "Jeffrey A. Melvin"
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "winners": [
+         "Phantom Thread"
+      ],
+      "info": [
+         "Mark Bridges"
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup and Hairstyling",
+      "winners": [
+         "Darkest Hour"
+      ],
+      "info": [
+         "Kazu Hiro",
+         "David Malinowski",
+         "Lucy Sibbick"
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures (Original Score)",
+      "winners": [
+         "The Shape of Water"
+      ],
+      "info": [
+         "Alexandre Desplat"
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures (Original Song)",
+      "winners": [
+         "Coco"
+      ],
+      "info": [
+         "Kristen Anderson-Lopez",
+         "Robert Lopez"
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "winners": [
+         "Dunkirk"
+      ],
+      "info": [
+         "Gregg Landaker",
+         "Gary A. Rizzo",
+         "Mark Weingarten"
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "winners": [
+         "Dunkirk"
+      ],
+      "info": [
+         "Richard King",
+         "Alex Gibson"
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "winners": [
+         "Blade Runner 2049"
+      ],
+      "info": [
+         "John Nelson",
+         "Gerd Nefzer",
+         "Paul Lambert",
+         "Richard R. Hoover"
+      ]
+   },
+   {
+      "category": "Best Documentary Feature",
+      "winners": [
+         "Icarus"
+      ],
+      "info": [
+         "Bryan Fogel",
+         "Dan Cogan"
+      ]
+   },
+   {
+      "category": "Best Documentary Short Subject",
+      "winners": [
+         "Heaven Is a Traffic Jam on the 405"
+      ],
+      "info": [
+         "Frank Stiefel"
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film",
+      "winners": [
+         "Coco"
+      ],
+      "info": [
+         "Lee Unkrich",
+         "Darla K. Anderson"
+      ]
+   },
+   {
+      "category": "Best Animated Short Film",
+      "winners": [
+         "Dear Basketball"
+      ],
+      "info": [
+         "Glen Keane",
+         "Kobe Bryant"
+      ]
+   },
+   {
+      "category": "Best Live Action Short Film",
+      "winners": [
+         "The Silent Child"
+      ],
+      "info": [
+         "Chris Overton",
+         "Rachel Shenton"
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "winners": [
+         "A Fantastic Woman"
+      ],
+      "info": []
+   }
+]

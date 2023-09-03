@@ -1,0 +1,234 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "winners": [
+         "Crash"
+      ],
+      "info": [
+         "Paul Haggis",
+         "Cathy Schulman"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "winners": [
+         "Philip Seymour Hoffman"
+      ],
+      "info": [
+         "Capote"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "winners": [
+         "Reese Witherspoon"
+      ],
+      "info": [
+         "Walk the Line"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "winners": [
+         "George Clooney"
+      ],
+      "info": [
+         "Syriana"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "winners": [
+         "Rachel Weisz"
+      ],
+      "info": [
+         "The Constant Gardener"
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "winners": [
+         "Ang Lee"
+      ],
+      "info": [
+         "Brokeback Mountain"
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "winners": [
+         "Crash"
+      ],
+      "info": [
+         "Paul Haggis",
+         "Bobby Moresco"
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "winners": [
+         "Brokeback Mountain"
+      ],
+      "info": [
+         "Larry McMurtry",
+         "Diana Ossana"
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "winners": [
+         "Memoirs of a Geisha"
+      ],
+      "info": [
+         "Dion Beebe"
+      ]
+   },
+   {
+      "category": "Best Achievement in Art Direction",
+      "winners": [
+         "Memoirs of a Geisha"
+      ],
+      "info": [
+         "John Myhre",
+         "Gretchen Rau"
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "winners": [
+         "Crash"
+      ],
+      "info": [
+         "Hughes Winborne"
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "winners": [
+         "Memoirs of a Geisha"
+      ],
+      "info": [
+         "Colleen Atwood"
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
+      "winners": [
+         "Hustle & Flow"
+      ],
+      "info": [
+         "Juicy J",
+         "Cedric Coleman",
+         "D.J. Paul"
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
+      "winners": [
+         "Brokeback Mountain"
+      ],
+      "info": [
+         "Gustavo Santaolalla"
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "winners": [
+         "King Kong"
+      ],
+      "info": [
+         "Christopher Boyes",
+         "Michael Semanick",
+         "Michael Hedges",
+         "Hammond Peek"
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "winners": [
+         "King Kong"
+      ],
+      "info": [
+         "Mike Hopkins",
+         "Ethan Van der Ryn"
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "winners": [
+         "King Kong"
+      ],
+      "info": [
+         "Joe Letteri",
+         "Brian Van't Hul",
+         "Christian Rivers",
+         "Richard Taylor"
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "winners": [
+         "The Moon and the Son: An Imagined Conversation"
+      ],
+      "info": [
+         "John Canemaker",
+         "Peggy Stern"
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "winners": [
+         "Six Shooter"
+      ],
+      "info": [
+         "Martin McDonagh"
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "winners": [
+         "A Note of Triumph: The Golden Age of Norman Corwin"
+      ],
+      "info": [
+         "Corinne Marrinan",
+         "Eric Simonson"
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "winners": [
+         "March of the Penguins"
+      ],
+      "info": [
+         "Luc Jacquet",
+         "Yves Darondeau"
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "winners": [
+         "Tsotsi"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Animated Feature Film of the Year",
+      "winners": [
+         "Wallace & Gromit: The Curse of the Were-Rabbit"
+      ],
+      "info": [
+         "Steve Box",
+         "Nick Park"
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup",
+      "winners": [
+         "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
+      ],
+      "info": [
+         "Howard Berger",
+         "Tami Lane"
+      ]
+   }
+]

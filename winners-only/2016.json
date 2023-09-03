@@ -1,0 +1,235 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "winners": [
+         "Spotlight"
+      ],
+      "info": [
+         "Michael Sugar",
+         "Steve Golin",
+         "Nicole Rocklin",
+         "Blye Pagon Faust"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "winners": [
+         "Leonardo DiCaprio"
+      ],
+      "info": [
+         "The Revenant"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "winners": [
+         "Brie Larson"
+      ],
+      "info": [
+         "Room"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "winners": [
+         "Mark Rylance"
+      ],
+      "info": [
+         "Bridge of Spies"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "winners": [
+         "Alicia Vikander"
+      ],
+      "info": [
+         "The Danish Girl"
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "winners": [
+         "Alejandro G. I\u00f1\u00e1rritu"
+      ],
+      "info": [
+         "The Revenant"
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "winners": [
+         "Spotlight"
+      ],
+      "info": [
+         "Josh Singer",
+         "Tom McCarthy"
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "winners": [
+         "The Big Short"
+      ],
+      "info": [
+         "Charles Randolph",
+         "Adam McKay"
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "winners": [
+         "The Revenant"
+      ],
+      "info": [
+         "Emmanuel Lubezki"
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "winners": [
+         "Mad Max: Fury Road"
+      ],
+      "info": [
+         "Margaret Sixel"
+      ]
+   },
+   {
+      "category": "Best Achievement in Production Design",
+      "winners": [
+         "Mad Max: Fury Road"
+      ],
+      "info": [
+         "Colin Gibson",
+         "Lisa Thompson"
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "winners": [
+         "Mad Max: Fury Road"
+      ],
+      "info": [
+         "Jenny Beavan"
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup and Hairstyling",
+      "winners": [
+         "Mad Max: Fury Road"
+      ],
+      "info": [
+         "Lesley Vanderwalt",
+         "Elka Wardega",
+         "Damian Martin"
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
+      "winners": [
+         "Spectre"
+      ],
+      "info": [
+         "Sam Smith",
+         "Jimmy Napes"
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
+      "winners": [
+         "The Hateful Eight"
+      ],
+      "info": [
+         "Ennio Morricone"
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "winners": [
+         "Mad Max: Fury Road"
+      ],
+      "info": [
+         "Chris Jenkins",
+         "Gregg Rudloff",
+         "Ben Osmo"
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "winners": [
+         "Mad Max: Fury Road"
+      ],
+      "info": [
+         "Mark A. Mangini",
+         "David White"
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "winners": [
+         "Ex Machina"
+      ],
+      "info": [
+         "Andrew Whitehurst",
+         "Paul Norris",
+         "Mark Williams Ardington",
+         "Sara Bennett"
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "winners": [
+         "Bear Story"
+      ],
+      "info": [
+         "Gabriel Osorio Vargas",
+         "Pato Escala Pierart"
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "winners": [
+         "Stutterer"
+      ],
+      "info": [
+         "Benjamin Cleary",
+         "Serena Armitage"
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subject",
+      "winners": [
+         "A Girl in the River: The Price of Forgiveness"
+      ],
+      "info": [
+         "Sharmeen Obaid-Chinoy"
+      ]
+   },
+   {
+      "category": "Best Documentary, Feature",
+      "winners": [
+         "Amy"
+      ],
+      "info": [
+         "Asif Kapadia",
+         "James Gay-Rees"
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "winners": [
+         "Son of Saul"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Animated Feature Film of the Year",
+      "winners": [
+         "Inside Out"
+      ],
+      "info": [
+         "Pete Docter",
+         "Jonas Rivera"
+      ]
+   }
+]

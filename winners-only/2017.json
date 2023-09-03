@@ -1,0 +1,236 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "winners": [
+         "Moonlight"
+      ],
+      "info": [
+         "Dede Gardner",
+         "Jeremy Kleiner",
+         "Adele Romanski"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "winners": [
+         "Casey Affleck"
+      ],
+      "info": [
+         "Manchester by the Sea"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "winners": [
+         "Emma Stone"
+      ],
+      "info": [
+         "La La Land"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "winners": [
+         "Mahershala Ali"
+      ],
+      "info": [
+         "Moonlight"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "winners": [
+         "Viola Davis"
+      ],
+      "info": [
+         "Fences"
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "winners": [
+         "Damien Chazelle"
+      ],
+      "info": [
+         "La La Land"
+      ]
+   },
+   {
+      "category": "Best Original Screenplay",
+      "winners": [
+         "Manchester by the Sea"
+      ],
+      "info": [
+         "Kenneth Lonergan"
+      ]
+   },
+   {
+      "category": "Best Adapted Screenplay",
+      "winners": [
+         "Moonlight"
+      ],
+      "info": [
+         "Barry Jenkins",
+         "Tarell Alvin McCraney"
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "winners": [
+         "La La Land"
+      ],
+      "info": [
+         "Linus Sandgren"
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "winners": [
+         "Hacksaw Ridge"
+      ],
+      "info": [
+         "John Gilbert"
+      ]
+   },
+   {
+      "category": "Best Achievement in Production Design",
+      "winners": [
+         "La La Land"
+      ],
+      "info": [
+         "David Wasco",
+         "Sandy Reynolds-Wasco"
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "winners": [
+         "Fantastic Beasts and Where to Find Them"
+      ],
+      "info": [
+         "Colleen Atwood"
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup and Hairstyling",
+      "winners": [
+         "Suicide Squad"
+      ],
+      "info": [
+         "Alessandro Bertolazzi",
+         "Giorgio Gregorini",
+         "Christopher Allen Nelson"
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures (Original Score)",
+      "winners": [
+         "La La Land"
+      ],
+      "info": [
+         "Justin Hurwitz"
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures (Original Song)",
+      "winners": [
+         "La La Land"
+      ],
+      "info": [
+         "Justin Hurwitz",
+         "Benj Pasek",
+         "Justin Paul"
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "winners": [
+         "Hacksaw Ridge"
+      ],
+      "info": [
+         "Kevin O'Connell",
+         "Andy Wright",
+         "Robert Mackenzie",
+         "Peter Grace"
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "winners": [
+         "Arrival"
+      ],
+      "info": [
+         "Sylvain Bellemare"
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "winners": [
+         "The Jungle Book"
+      ],
+      "info": [
+         "Robert Legato",
+         "Adam Valdez",
+         "Andrew R. Jones",
+         "Dan Lemmon"
+      ]
+   },
+   {
+      "category": "Best Documentary Feature",
+      "winners": [
+         "O.J.: Made in America"
+      ],
+      "info": [
+         "Ezra Edelman",
+         "Caroline Waterlow"
+      ]
+   },
+   {
+      "category": "Best Documentary Short Subject",
+      "winners": [
+         "The White Helmets"
+      ],
+      "info": [
+         "Orlando von Einsiedel",
+         "Joanna Natasegara"
+      ]
+   },
+   {
+      "category": "Best Animated Short Film",
+      "winners": [
+         "Piper"
+      ],
+      "info": [
+         "Alan Barillaro",
+         "Marc Sondheimer"
+      ]
+   },
+   {
+      "category": "Best Live Action Short Film",
+      "winners": [
+         "Sing"
+      ],
+      "info": [
+         "Krist\u00f3f De\u00e1k",
+         "Anna Udvardy"
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "winners": [
+         "The Salesman"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Animated Feature Film of the Year",
+      "winners": [
+         "Zootopia"
+      ],
+      "info": [
+         "Byron Howard",
+         "Rich Moore",
+         "Clark Spencer"
+      ]
+   }
+]

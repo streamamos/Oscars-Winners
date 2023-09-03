@@ -1,0 +1,221 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "winners": [
+         "Tom Hanks"
+      ],
+      "info": [
+         "Philadelphia"
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "winners": [
+         "Tommy Lee Jones"
+      ],
+      "info": [
+         "The Fugitive"
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "winners": [
+         "Holly Hunter"
+      ],
+      "info": [
+         "The Piano"
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "winners": [
+         "Anna Paquin"
+      ],
+      "info": [
+         "The Piano"
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "winners": [
+         "Schindler's List"
+      ],
+      "info": [
+         "Allan Starski",
+         "Ewa Braun"
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "winners": [
+         "Schindler's List"
+      ],
+      "info": [
+         "Janusz Kaminski"
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "winners": [
+         "The Age of Innocence"
+      ],
+      "info": [
+         "Gabriella Pescucci"
+      ]
+   },
+   {
+      "category": "Best Director",
+      "winners": [
+         "Steven Spielberg"
+      ],
+      "info": [
+         "Schindler's List"
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "winners": [
+         "I Am a Promise: The Children of Stanton Elementary School"
+      ],
+      "info": [
+         "Susan Raymond",
+         "Alan Raymond"
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "winners": [
+         "Defending Our Lives"
+      ],
+      "info": [
+         "Margaret Lazarus",
+         "Renner Wunderlich"
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "winners": [
+         "Jurassic Park"
+      ],
+      "info": [
+         "Gary Rydstrom",
+         "Richard Hymns"
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "winners": [
+         "Jurassic Park"
+      ],
+      "info": [
+         "Dennis Muren",
+         "Stan Winston",
+         "Phil Tippett",
+         "Michael Lantieri"
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "winners": [
+         "Schindler's List"
+      ],
+      "info": [
+         "Michael Kahn"
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "winners": [
+         "Belle Epoque"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Makeup",
+      "winners": [
+         "Mrs. Doubtfire"
+      ],
+      "info": [
+         "Greg Cannom",
+         "Ve Neill",
+         "Yolanda Toussieng"
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "winners": [
+         "Schindler's List"
+      ],
+      "info": [
+         "John Williams"
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "winners": [
+         "Philadelphia"
+      ],
+      "info": [
+         "Bruce Springsteen"
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "winners": [
+         "Schindler's List"
+      ],
+      "info": [
+         "Steven Spielberg",
+         "Gerald R. Molen",
+         "Branko Lustig"
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "winners": [
+         "Wallace & Gromit: The Wrong Trousers"
+      ],
+      "info": [
+         "Nick Park"
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "winners": [
+         "Black Rider"
+      ],
+      "info": [
+         "Pepe Danquart"
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "winners": [
+         "Jurassic Park"
+      ],
+      "info": [
+         "Gary Summers",
+         "Gary Rydstrom",
+         "Shawn Murphy",
+         "Ron Judkins"
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "winners": [
+         "Schindler's List"
+      ],
+      "info": [
+         "Steven Zaillian"
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "winners": [
+         "The Piano"
+      ],
+      "info": [
+         "Jane Campion"
+      ]
+   }
+]

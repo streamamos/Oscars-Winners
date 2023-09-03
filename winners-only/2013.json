@@ -1,0 +1,230 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "winners": [
+         "Argo"
+      ],
+      "info": [
+         "Grant Heslov",
+         "Ben Affleck",
+         "George Clooney"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "winners": [
+         "Daniel Day-Lewis"
+      ],
+      "info": [
+         "Lincoln"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "winners": [
+         "Jennifer Lawrence"
+      ],
+      "info": [
+         "Silver Linings Playbook"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "winners": [
+         "Christoph Waltz"
+      ],
+      "info": [
+         "Django Unchained"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "winners": [
+         "Anne Hathaway"
+      ],
+      "info": [
+         "Les Mis\u00e9rables"
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "winners": [
+         "Ang Lee"
+      ],
+      "info": [
+         "Life of Pi"
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "winners": [
+         "Django Unchained"
+      ],
+      "info": [
+         "Quentin Tarantino"
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "winners": [
+         "Argo"
+      ],
+      "info": [
+         "Chris Terrio"
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "winners": [
+         "Life of Pi"
+      ],
+      "info": [
+         "Claudio Miranda"
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "winners": [
+         "Argo"
+      ],
+      "info": [
+         "William Goldenberg"
+      ]
+   },
+   {
+      "category": "Best Achievement in Production Design",
+      "winners": [
+         "Lincoln"
+      ],
+      "info": [
+         "Rick Carter",
+         "Jim Erickson"
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "winners": [
+         "Anna Karenina"
+      ],
+      "info": [
+         "Jacqueline Durran"
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup and Hairstyling",
+      "winners": [
+         "Les Mis\u00e9rables"
+      ],
+      "info": [
+         "Lisa Westcott",
+         "Julie Dartnell"
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
+      "winners": [
+         "Skyfall"
+      ],
+      "info": [
+         "Adele",
+         "Paul Epworth"
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
+      "winners": [
+         "Life of Pi"
+      ],
+      "info": [
+         "Mychael Danna"
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "winners": [
+         "Les Mis\u00e9rables"
+      ],
+      "info": [
+         "Andy Nelson",
+         "Mark Paterson",
+         "Simon Hayes"
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "winners": [
+         "Skyfall"
+      ],
+      "info": [
+         "Per Hallberg",
+         "Karen Baker Landers"
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "winners": [
+         "Life of Pi"
+      ],
+      "info": [
+         "Bill Westenhofer",
+         "Guillaume Rocheron",
+         "Erik De Boer",
+         "Donald Elliott"
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "winners": [
+         "Paperman"
+      ],
+      "info": [
+         "John Kahrs"
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "winners": [
+         "Curfew"
+      ],
+      "info": [
+         "Shawn Christensen"
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "winners": [
+         "Inocente"
+      ],
+      "info": [
+         "Sean Fine",
+         "Andrea Nix"
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "winners": [
+         "Searching for Sugar Man"
+      ],
+      "info": [
+         "Malik Bendjelloul",
+         "Simon Chinn"
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "winners": [
+         "Amour"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Animated Feature",
+      "winners": [
+         "Brave"
+      ],
+      "info": [
+         "Mark Andrews",
+         "Brenda Chapman"
+      ]
+   }
+]

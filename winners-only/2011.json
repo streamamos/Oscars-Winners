@@ -1,0 +1,230 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "winners": [
+         "The King's Speech"
+      ],
+      "info": [
+         "Iain Canning",
+         "Emile Sherman",
+         "Gareth Unwin"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "winners": [
+         "Colin Firth"
+      ],
+      "info": [
+         "The King's Speech"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "winners": [
+         "Natalie Portman"
+      ],
+      "info": [
+         "Black Swan"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "winners": [
+         "Christian Bale"
+      ],
+      "info": [
+         "The Fighter"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "winners": [
+         "Melissa Leo"
+      ],
+      "info": [
+         "The Fighter"
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "winners": [
+         "Tom Hooper"
+      ],
+      "info": [
+         "The King's Speech"
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "winners": [
+         "The King's Speech"
+      ],
+      "info": [
+         "David Seidler"
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "winners": [
+         "The Social Network"
+      ],
+      "info": [
+         "Aaron Sorkin"
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "winners": [
+         "Inception"
+      ],
+      "info": [
+         "Wally Pfister"
+      ]
+   },
+   {
+      "category": "Best Achievement in Art Direction",
+      "winners": [
+         "Alice in Wonderland"
+      ],
+      "info": [
+         "Robert Stromberg",
+         "Karen O'Hara"
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "winners": [
+         "The Social Network"
+      ],
+      "info": [
+         "Kirk Baxter",
+         "Angus Wall"
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "winners": [
+         "Alice in Wonderland"
+      ],
+      "info": [
+         "Colleen Atwood"
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
+      "winners": [
+         "Toy Story 3"
+      ],
+      "info": [
+         "Randy Newman"
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
+      "winners": [
+         "The Social Network"
+      ],
+      "info": [
+         "Trent Reznor",
+         "Atticus Ross"
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "winners": [
+         "Inception"
+      ],
+      "info": [
+         "Lora Hirschberg",
+         "Gary A. Rizzo",
+         "Ed Novick"
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "winners": [
+         "Inception"
+      ],
+      "info": [
+         "Richard King"
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "winners": [
+         "Inception"
+      ],
+      "info": [
+         "Chris Corbould",
+         "Andrew Lockley",
+         "Pete Bebb",
+         "Paul J. Franklin"
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "winners": [
+         "The Lost Thing"
+      ],
+      "info": [
+         "Shaun Tan",
+         "Andrew Ruhemann"
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "winners": [
+         "God of Love"
+      ],
+      "info": [
+         "Luke Matheny"
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "winners": [
+         "Strangers No More"
+      ],
+      "info": [
+         "Karen Goodman",
+         "Kirk Simon"
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "winners": [
+         "Inside Job"
+      ],
+      "info": [
+         "Charles Ferguson",
+         "Audrey Marrs"
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "winners": [
+         "In a Better World"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Animated Feature Film of the Year",
+      "winners": [
+         "Toy Story 3"
+      ],
+      "info": [
+         "Lee Unkrich"
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup",
+      "winners": [
+         "The Wolfman"
+      ],
+      "info": [
+         "Rick Baker",
+         "Dave Elsey"
+      ]
+   }
+]

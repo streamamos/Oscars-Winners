@@ -1,0 +1,225 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "winners": [
+         "The Departed"
+      ],
+      "info": [
+         "Graham King"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "winners": [
+         "Forest Whitaker"
+      ],
+      "info": [
+         "The Last King of Scotland"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "winners": [
+         "Helen Mirren"
+      ],
+      "info": [
+         "The Queen"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "winners": [
+         "Alan Arkin"
+      ],
+      "info": [
+         "Little Miss Sunshine"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "winners": [
+         "Jennifer Hudson"
+      ],
+      "info": [
+         "Dreamgirls"
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "winners": [
+         "Martin Scorsese"
+      ],
+      "info": [
+         "The Departed"
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "winners": [
+         "Little Miss Sunshine"
+      ],
+      "info": [
+         "Michael Arndt"
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "winners": [
+         "The Departed"
+      ],
+      "info": [
+         "William Monahan"
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "winners": [
+         "Pan's Labyrinth"
+      ],
+      "info": [
+         "Guillermo Navarro"
+      ]
+   },
+   {
+      "category": "Best Achievement in Art Direction",
+      "winners": [
+         "Pan's Labyrinth"
+      ],
+      "info": [
+         "Eugenio Caballero",
+         "Pilar Revuelta"
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "winners": [
+         "The Departed"
+      ],
+      "info": [
+         "Thelma Schoonmaker"
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "winners": [
+         "Marie Antoinette"
+      ],
+      "info": [
+         "Milena Canonero"
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
+      "winners": [
+         "An Inconvenient Truth"
+      ],
+      "info": [
+         "Melissa Etheridge"
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
+      "winners": [
+         "Babel"
+      ],
+      "info": [
+         "Gustavo Santaolalla"
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "winners": [
+         "Dreamgirls"
+      ],
+      "info": [
+         "Michael Minkler",
+         "Bob Beemer",
+         "Willie D. Burton"
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "winners": [
+         "Letters from Iwo Jima"
+      ],
+      "info": [
+         "Alan Robert Murray",
+         "Bub Asman"
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "winners": [
+         "Pirates of the Caribbean: Dead Man's Chest"
+      ],
+      "info": [
+         "John Knoll",
+         "Hal T. Hickel",
+         "Charles Gibson",
+         "Allen Hall"
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "winners": [
+         "The Danish Poet"
+      ],
+      "info": [
+         "Torill Kove"
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "winners": [
+         "West Bank Story"
+      ],
+      "info": [
+         "Ari Sandel"
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "winners": [
+         "The Blood of Yingzhou District"
+      ],
+      "info": [
+         "Ruby Yang",
+         "Thomas Lennon"
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "winners": [
+         "An Inconvenient Truth"
+      ],
+      "info": [
+         "Davis Guggenheim"
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "winners": [
+         "The Lives of Others"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Animated Feature Film of the Year",
+      "winners": [
+         "Happy Feet"
+      ],
+      "info": [
+         "George Miller"
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup",
+      "winners": [
+         "Pan's Labyrinth"
+      ],
+      "info": [
+         "David Mart\u00ed",
+         "Montse Rib\u00e9"
+      ]
+   }
+]

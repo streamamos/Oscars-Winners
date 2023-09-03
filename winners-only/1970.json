@@ -1,0 +1,207 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "winners": [
+         "John Wayne"
+      ],
+      "info": [
+         "True Grit"
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "winners": [
+         "Gig Young"
+      ],
+      "info": [
+         "They Shoot Horses, Don't They?"
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "winners": [
+         "Maggie Smith"
+      ],
+      "info": [
+         "The Prime of Miss Jean Brodie"
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "winners": [
+         "Goldie Hawn"
+      ],
+      "info": [
+         "Cactus Flower"
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "winners": [
+         "Hello, Dolly!"
+      ],
+      "info": [
+         "John DeCuir",
+         "Jack Martin Smith",
+         "Herman A. Blumenthal",
+         "Walter M. Scott",
+         "George James Hopkins",
+         "Raphael Bretton"
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "winners": [
+         "Butch Cassidy and the Sundance Kid"
+      ],
+      "info": [
+         "Conrad L. Hall"
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "winners": [
+         "Anne of the Thousand Days"
+      ],
+      "info": [
+         "Margaret Furse"
+      ]
+   },
+   {
+      "category": "Best Director",
+      "winners": [
+         "John Schlesinger"
+      ],
+      "info": [
+         "Midnight Cowboy"
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "winners": [
+         "Arthur Rubinstein: The Love of Life"
+      ],
+      "info": [
+         "Bernard Chevry"
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "winners": [
+         "Czechoslovakia 1918-1968"
+      ],
+      "info": [
+         "Denis Sanders",
+         "Robert M. Fresco"
+      ]
+   },
+   {
+      "category": "Best Effects, Special Visual Effects",
+      "winners": [
+         "Marooned"
+      ],
+      "info": [
+         "Robie Robinson"
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "winners": [
+         "Z"
+      ],
+      "info": [
+         "Fran\u00e7oise Bonnot"
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "winners": [
+         "Z"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Music, Original Score for a Motion Picture (not a Musical)",
+      "winners": [
+         "Butch Cassidy and the Sundance Kid"
+      ],
+      "info": [
+         "Burt Bacharach"
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "winners": [
+         "Butch Cassidy and the Sundance Kid"
+      ],
+      "info": [
+         "Burt Bacharach",
+         "Hal David"
+      ]
+   },
+   {
+      "category": "Best Music, Score of a Musical Picture (Original or Adaptation)",
+      "winners": [
+         "Hello, Dolly!"
+      ],
+      "info": [
+         "Lennie Hayton",
+         "Lionel Newman"
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "winners": [
+         "Midnight Cowboy"
+      ],
+      "info": [
+         "Jerome Hellman"
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "winners": [
+         "It's Tough to Be a Bird"
+      ],
+      "info": [
+         "Ward Kimball"
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Subjects",
+      "winners": [
+         "The Magic Machines"
+      ],
+      "info": [
+         "Joan Keller Stern"
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "winners": [
+         "Hello, Dolly!"
+      ],
+      "info": [
+         "Jack Solomon",
+         "Murray Spivack"
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "winners": [
+         "Midnight Cowboy"
+      ],
+      "info": [
+         "Waldo Salt"
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay Based on Material Not Previously Published or Produced",
+      "winners": [
+         "Butch Cassidy and the Sundance Kid"
+      ],
+      "info": [
+         "William Goldman"
+      ]
+   }
+]

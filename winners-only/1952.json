@@ -1,0 +1,245 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "winners": [
+         "Humphrey Bogart"
+      ],
+      "info": [
+         "The African Queen"
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "winners": [
+         "Karl Malden"
+      ],
+      "info": [
+         "A Streetcar Named Desire"
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "winners": [
+         "Vivien Leigh"
+      ],
+      "info": [
+         "A Streetcar Named Desire"
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "winners": [
+         "Kim Hunter"
+      ],
+      "info": [
+         "A Streetcar Named Desire"
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "winners": [
+         "A Streetcar Named Desire"
+      ],
+      "info": [
+         "Richard Day",
+         "George James Hopkins"
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "winners": [
+         "An American in Paris"
+      ],
+      "info": [
+         "Cedric Gibbons",
+         "E. Preston Ames",
+         "Edwin B. Willis",
+         "F. Keogh Gleason"
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "winners": [
+         "A Place in the Sun"
+      ],
+      "info": [
+         "William C. Mellor"
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "winners": [
+         "An American in Paris"
+      ],
+      "info": [
+         "Alfred Gilks",
+         "John Alton"
+      ]
+   },
+   {
+      "category": "Best Costume Design, Black-and-White",
+      "winners": [
+         "A Place in the Sun"
+      ],
+      "info": [
+         "Edith Head"
+      ]
+   },
+   {
+      "category": "Best Costume Design, Color",
+      "winners": [
+         "An American in Paris"
+      ],
+      "info": [
+         "Orry-Kelly",
+         "Walter Plunkett",
+         "Irene Sharaff"
+      ]
+   },
+   {
+      "category": "Best Director",
+      "winners": [
+         "George Stevens"
+      ],
+      "info": [
+         "A Place in the Sun"
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "winners": [
+         "Kon-Tiki"
+      ],
+      "info": [
+         "Olle Nordemar"
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "winners": [
+         "Benjy"
+      ],
+      "info": [
+         "Fred Zinnemann"
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "winners": [
+         "When Worlds Collide"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Film Editing",
+      "winners": [
+         "A Place in the Sun"
+      ],
+      "info": [
+         "William Hornbeck"
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "winners": [
+         "Here Comes the Groom"
+      ],
+      "info": [
+         "Hoagy Carmichael",
+         "Johnny Mercer"
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
+      "winners": [
+         "A Place in the Sun"
+      ],
+      "info": [
+         "Franz Waxman"
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Musical Picture",
+      "winners": [
+         "An American in Paris"
+      ],
+      "info": [
+         "Johnny Green",
+         "Saul Chaplin"
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "winners": [
+         "An American in Paris"
+      ],
+      "info": [
+         "Arthur Freed"
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "winners": [
+         "The Two Mouseketeers"
+      ],
+      "info": [
+         "Fred Quimby"
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "winners": [
+         "World of Kids"
+      ],
+      "info": [
+         "Robert Youngson"
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "winners": [
+         "Nature's Half Acre"
+      ],
+      "info": [
+         "Walt Disney"
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "winners": [
+         "The Great Caruso"
+      ],
+      "info": [
+         "Douglas Shearer"
+      ]
+   },
+   {
+      "category": "Best Writing, Motion Picture Story",
+      "winners": [
+         "Seven Days to Noon"
+      ],
+      "info": [
+         "Paul Dehn",
+         "James Bernard"
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "winners": [
+         "A Place in the Sun"
+      ],
+      "info": [
+         "Michael Wilson",
+         "Harry Brown"
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay",
+      "winners": [
+         "An American in Paris"
+      ],
+      "info": [
+         "Alan Jay Lerner"
+      ]
+   }
+]

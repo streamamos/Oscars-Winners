@@ -1,0 +1,108 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "winners": [
+         "Emil Jannings"
+      ],
+      "info": [
+         "The Last Command",
+         "The Way of All Flesh"
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "winners": [
+         "Janet Gaynor"
+      ],
+      "info": [
+         "7th Heaven",
+         "Street Angel",
+         "Sunrise"
+      ]
+   },
+   {
+      "category": "Best Art Direction",
+      "winners": [
+         "Tempest"
+      ],
+      "info": [
+         "William Cameron Menzies"
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "winners": [
+         "Sunrise"
+      ],
+      "info": [
+         "Charles Rosher",
+         "Karl Struss"
+      ]
+   },
+   {
+      "category": "Best Director, Comedy Picture",
+      "winners": [
+         "Lewis Milestone"
+      ],
+      "info": [
+         "Two Arabian Knights"
+      ]
+   },
+   {
+      "category": "Best Director, Dramatic Picture",
+      "winners": [
+         "Frank Borzage"
+      ],
+      "info": [
+         "7th Heaven"
+      ]
+   },
+   {
+      "category": "Best Effects, Engineering Effects",
+      "winners": [
+         "Wings"
+      ],
+      "info": [
+         "Roy Pomeroy"
+      ]
+   },
+   {
+      "category": "Best Picture, Production",
+      "winners": [
+         "Wings"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Picture, Unique and Artistic Production",
+      "winners": [
+         "Sunrise"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Writing, Adaptation",
+      "winners": [
+         "7th Heaven"
+      ],
+      "info": [
+         "Benjamin Glazer"
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "winners": [
+         "Underworld"
+      ],
+      "info": [
+         "Ben Hecht"
+      ]
+   },
+   {
+      "category": "Best Writing, Title Writing",
+      "winners": [
+         "Joseph Farnham"
+      ],
+      "info": []
+   }
+]

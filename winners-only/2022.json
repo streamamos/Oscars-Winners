@@ -1,0 +1,228 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "winners": [
+         "CODA"
+      ],
+      "info": [
+         "Philippe Rousselet",
+         "Fabrice Gianfermi",
+         "Patrick Wachsberger"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "winners": [
+         "Will Smith"
+      ],
+      "info": [
+         "King Richard"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "winners": [
+         "Jessica Chastain"
+      ],
+      "info": [
+         "The Eyes of Tammy Faye"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "winners": [
+         "Troy Kotsur"
+      ],
+      "info": [
+         "CODA"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "winners": [
+         "Ariana DeBose"
+      ],
+      "info": [
+         "West Side Story"
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "winners": [
+         "Jane Campion"
+      ],
+      "info": [
+         "The Power of the Dog"
+      ]
+   },
+   {
+      "category": "Best Original Screenplay",
+      "winners": [
+         "Belfast"
+      ],
+      "info": [
+         "Kenneth Branagh"
+      ]
+   },
+   {
+      "category": "Best Adapted Screenplay",
+      "winners": [
+         "CODA"
+      ],
+      "info": [
+         "Sian Heder"
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "winners": [
+         "Dune"
+      ],
+      "info": [
+         "Greig Fraser"
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "winners": [
+         "Dune"
+      ],
+      "info": [
+         "Joe Walker"
+      ]
+   },
+   {
+      "category": "Best Achievement in Production Design",
+      "winners": [
+         "Dune"
+      ],
+      "info": [
+         "Patrice Vermette",
+         "Zsuzsanna Sipos"
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "winners": [
+         "Cruella"
+      ],
+      "info": [
+         "Jenny Beavan"
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "winners": [
+         "Dune"
+      ],
+      "info": [
+         "Mac Ruth",
+         "Mark A. Mangini",
+         "Theo Green",
+         "Doug Hemphill",
+         "Ron Bartlett"
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup and Hairstyling",
+      "winners": [
+         "The Eyes of Tammy Faye"
+      ],
+      "info": [
+         "Stephanie Ingram",
+         "Linda Dowds",
+         "Justin Raleigh"
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures (Original Score)",
+      "winners": [
+         "Dune"
+      ],
+      "info": [
+         "Hans Zimmer"
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures (Original Song)",
+      "winners": [
+         "No Time to Die"
+      ],
+      "info": [
+         "Billie Eilish",
+         "Finneas O'Connell"
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "winners": [
+         "Dune"
+      ],
+      "info": [
+         "Paul Lambert",
+         "Tristan Myles",
+         "Brian Connor",
+         "Gerd Nefzer"
+      ]
+   },
+   {
+      "category": "Best Documentary Feature",
+      "winners": [
+         "Summer of Soul (...Or, When the Revolution Could Not Be Televised)"
+      ],
+      "info": [
+         "Questlove",
+         "Joseph Patel",
+         "Robert Fyvolent",
+         "David Dinerstein"
+      ]
+   },
+   {
+      "category": "Best Documentary Short Subject",
+      "winners": [
+         "The Queen of Basketball"
+      ],
+      "info": [
+         "Ben Proudfoot"
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film",
+      "winners": [
+         "Encanto"
+      ],
+      "info": [
+         "Jared Bush",
+         "Byron Howard",
+         "Yvett Merino",
+         "Clark Spencer"
+      ]
+   },
+   {
+      "category": "Best Animated Short Film",
+      "winners": [
+         "The Windshield Wiper"
+      ],
+      "info": [
+         "Alberto Mielgo",
+         "Leo Sanchez Barbosa"
+      ]
+   },
+   {
+      "category": "Best Live Action Short Film",
+      "winners": [
+         "The Long Goodbye"
+      ],
+      "info": [
+         "Aneil Karia",
+         "Riz Ahmed"
+      ]
+   },
+   {
+      "category": "Best International Feature Film",
+      "winners": [
+         "Drive My Car"
+      ],
+      "info": []
+   }
+]

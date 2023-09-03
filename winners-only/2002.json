@@ -1,0 +1,229 @@
+[
+   {
+      "category": "Best Picture",
+      "winners": [
+         "A Beautiful Mind"
+      ],
+      "info": [
+         "Brian Grazer",
+         "Ron Howard"
+      ]
+   },
+   {
+      "category": "Best Actor in a Leading Role",
+      "winners": [
+         "Denzel Washington"
+      ],
+      "info": [
+         "Training Day"
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "winners": [
+         "Halle Berry"
+      ],
+      "info": [
+         "Monster's Ball"
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "winners": [
+         "Jim Broadbent"
+      ],
+      "info": [
+         "Iris"
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "winners": [
+         "Jennifer Connelly"
+      ],
+      "info": [
+         "A Beautiful Mind"
+      ]
+   },
+   {
+      "category": "Best Director",
+      "winners": [
+         "Ron Howard"
+      ],
+      "info": [
+         "A Beautiful Mind"
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "winners": [
+         "Gosford Park"
+      ],
+      "info": [
+         "Julian Fellowes"
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "winners": [
+         "A Beautiful Mind"
+      ],
+      "info": [
+         "Akiva Goldsman"
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "winners": [
+         "No Man's Land"
+      ],
+      "info": []
+   },
+   {
+      "category": "Best Cinematography",
+      "winners": [
+         "The Lord of the Rings: The Fellowship of the Ring"
+      ],
+      "info": [
+         "Andrew Lesnie"
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "winners": [
+         "Moulin Rouge!"
+      ],
+      "info": [
+         "Catherine Martin",
+         "Brigitte Broch"
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "winners": [
+         "Moulin Rouge!"
+      ],
+      "info": [
+         "Catherine Martin",
+         "Angus Strathie"
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "winners": [
+         "Black Hawk Down"
+      ],
+      "info": [
+         "Michael Minkler",
+         "Myron Nettinga",
+         "Chris Munro"
+      ]
+   },
+   {
+      "category": "Best Sound Editing",
+      "winners": [
+         "Pearl Harbor"
+      ],
+      "info": [
+         "Christopher Boyes",
+         "George Watters II"
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "winners": [
+         "Black Hawk Down"
+      ],
+      "info": [
+         "Pietro Scalia"
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "winners": [
+         "The Lord of the Rings: The Fellowship of the Ring"
+      ],
+      "info": [
+         "Jim Rygiel",
+         "Randall William Cook",
+         "Richard Taylor",
+         "Mark Stetson"
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "winners": [
+         "The Lord of the Rings: The Fellowship of the Ring"
+      ],
+      "info": [
+         "Peter Owen",
+         "Richard Taylor"
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "winners": [
+         "Monsters, Inc."
+      ],
+      "info": [
+         "Randy Newman"
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "winners": [
+         "The Lord of the Rings: The Fellowship of the Ring"
+      ],
+      "info": [
+         "Howard Shore"
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "winners": [
+         "For the Birds"
+      ],
+      "info": [
+         "Ralph Eggleston"
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "winners": [
+         "The Accountant"
+      ],
+      "info": [
+         "Ray McKinnon",
+         "Lisa Blount"
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "winners": [
+         "Thoth"
+      ],
+      "info": [
+         "Sarah Kernochan",
+         "Lynn Appelle"
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "winners": [
+         "Murder on a Sunday Morning"
+      ],
+      "info": [
+         "Jean-Xavier de Lestrade",
+         "Denis Poncet"
+      ]
+   },
+   {
+      "category": "Best Animated Feature",
+      "winners": [
+         "Shrek"
+      ],
+      "info": [
+         "Aron Warner"
+      ]
+   }
+]
