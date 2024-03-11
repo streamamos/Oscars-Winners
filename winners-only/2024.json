@@ -1,0 +1,225 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "winners": [
+         "Oppenheimer"
+      ],
+      "info": [
+         "Emma Thomas",
+         "Charles Roven",
+         "Christopher Nolan"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "winners": [
+         "Cillian Murphy"
+      ],
+      "info": [
+         "Oppenheimer"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "winners": [
+         "Emma Stone"
+      ],
+      "info": [
+         "Poor Things"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "winners": [
+         "Robert Downey Jr."
+      ],
+      "info": [
+         "Oppenheimer"
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "winners": [
+         "Da'Vine Joy Randolph"
+      ],
+      "info": [
+         "The Holdovers"
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "winners": [
+         "Christopher Nolan"
+      ],
+      "info": [
+         "Oppenheimer"
+      ]
+   },
+   {
+      "category": "Best Original Screenplay",
+      "winners": [
+         "Anatomy of a Fall"
+      ],
+      "info": [
+         "Justine Triet",
+         "Arthur Harari"
+      ]
+   },
+   {
+      "category": "Best Adapted Screenplay",
+      "winners": [
+         "American Fiction"
+      ],
+      "info": [
+         "Cord Jefferson"
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "winners": [
+         "Oppenheimer"
+      ],
+      "info": [
+         "Hoyte Van Hoytema"
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "winners": [
+         "Oppenheimer"
+      ],
+      "info": [
+         "Jennifer Lame"
+      ]
+   },
+   {
+      "category": "Best Achievement in Production Design",
+      "winners": [
+         "Poor Things"
+      ],
+      "info": [
+         "James Price",
+         "Shona Heath",
+         "Zsuzsa Mihalek"
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "winners": [
+         "Poor Things"
+      ],
+      "info": [
+         "Holly Waddington"
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "winners": [
+         "The Zone of Interest"
+      ],
+      "info": [
+         "Tarn Willers",
+         "Johnnie Burn"
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup and Hairstyling",
+      "winners": [
+         "Poor Things"
+      ],
+      "info": [
+         "Nadia Stacey",
+         "Mark Coulier",
+         "Josh Weston"
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures (Original Score)",
+      "winners": [
+         "Oppenheimer"
+      ],
+      "info": [
+         "Ludwig G\u00f6ransson"
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures (Original Song)",
+      "winners": [
+         "Barbie"
+      ],
+      "info": [
+         "Billie Eilish",
+         "Finneas O'Connell"
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "winners": [
+         "Godzilla Minus One"
+      ],
+      "info": [
+         "Takashi Yamazaki",
+         "Kiyoko Shibuya",
+         "Masaki Takahashi",
+         "Tatsuji Nojima"
+      ]
+   },
+   {
+      "category": "Best Documentary Feature",
+      "winners": [
+         "20 Days in Mariupol"
+      ],
+      "info": [
+         "Mstyslav Chernov",
+         "Michelle Mizner",
+         "Raney Aronson"
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film",
+      "winners": [
+         "The Boy and the Heron"
+      ],
+      "info": [
+         "Hayao Miyazaki",
+         "Toshio Suzuki"
+      ]
+   },
+   {
+      "category": "Best Animated Short Film",
+      "winners": [
+         "War Is Over!"
+      ],
+      "info": [
+         "Dave Mullins",
+         "Brad Booker"
+      ]
+   },
+   {
+      "category": "Best Live Action Short Film",
+      "winners": [
+         "The Wonderful Story of Henry Sugar"
+      ],
+      "info": [
+         "Wes Anderson",
+         "Steven Rales"
+      ]
+   },
+   {
+      "category": "Best Documentary Short Film",
+      "winners": [
+         "The Last Repair Shop"
+      ],
+      "info": [
+         "Ben Proudfoot",
+         "Kris Bowers"
+      ]
+   },
+   {
+      "category": "Best International Feature Film",
+      "winners": [
+         "The Zone of Interest"
+      ],
+      "info": []
+   }
+]
