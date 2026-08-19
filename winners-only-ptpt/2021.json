@@ -1,0 +1,232 @@
+[
+   {
+      "category": "Melhor Filme do Ano",
+      "winners": [
+         "Nomadland"
+      ],
+      "info": [
+         "Frances McDormand",
+         "Peter Spears",
+         "Mollye Asher",
+         "Dan Janvey",
+         "Chlo\u00e9 Zhao"
+      ]
+   },
+   {
+      "category": "Melhor Ator Principal",
+      "winners": [
+         "Anthony Hopkins"
+      ],
+      "info": [
+         "The Father"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Principal",
+      "winners": [
+         "Frances McDormand"
+      ],
+      "info": [
+         "Nomadland"
+      ]
+   },
+   {
+      "category": "Melhor Ator Secundário",
+      "winners": [
+         "Daniel Kaluuya"
+      ],
+      "info": [
+         "Judas and the Black Messiah"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Secundária",
+      "winners": [
+         "Youn Yuh-jung"
+      ],
+      "info": [
+         "Minari"
+      ]
+   },
+   {
+      "category": "Melhor Realização",
+      "winners": [
+         "Chlo\u00e9 Zhao"
+      ],
+      "info": [
+         "Nomadland"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Original",
+      "winners": [
+         "Promising Young Woman"
+      ],
+      "info": [
+         "Emerald Fennell"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Adaptado",
+      "winners": [
+         "The Father"
+      ],
+      "info": [
+         "Christopher Hampton",
+         "Florian Zeller"
+      ]
+   },
+   {
+      "category": "Melhor Fotografia",
+      "winners": [
+         "Mank"
+      ],
+      "info": [
+         "Erik Messerschmidt"
+      ]
+   },
+   {
+      "category": "Melhor Montagem",
+      "winners": [
+         "Sound of Metal"
+      ],
+      "info": [
+         "Mikkel E.G. Nielsen"
+      ]
+   },
+   {
+      "category": "Melhor Design de Produção",
+      "winners": [
+         "Mank"
+      ],
+      "info": [
+         "Donald Graham Burt",
+         "Jan Pascale"
+      ]
+   },
+   {
+      "category": "Melhor Guarda-Roupa",
+      "winners": [
+         "Ma Rainey's Black Bottom"
+      ],
+      "info": [
+         "Ann Roth"
+      ]
+   },
+   {
+      "category": "Melhor Som",
+      "winners": [
+         "Sound of Metal"
+      ],
+      "info": [
+         "Nicolas Becker",
+         "Jaime Baksht",
+         "Michelle Couttolenc",
+         "Carlos Cort\u00e9s Navarrete",
+         "Phillip Bladh"
+      ]
+   },
+   {
+      "category": "Melhor Caracterização e Penteados",
+      "winners": [
+         "Ma Rainey's Black Bottom"
+      ],
+      "info": [
+         "Sergio Lopez-Rivera",
+         "Mia Neal",
+         "Jamika Wilson"
+      ]
+   },
+   {
+      "category": "Melhor Banda Sonora Original",
+      "winners": [
+         "Soul"
+      ],
+      "info": [
+         "Trent Reznor",
+         "Atticus Ross",
+         "Jon Batiste"
+      ]
+   },
+   {
+      "category": "Melhor Canção Original",
+      "winners": [
+         "Judas and the Black Messiah"
+      ],
+      "info": [
+         "H.E.R.",
+         "D'Mile",
+         "Tiara Thomas"
+      ]
+   },
+   {
+      "category": "Melhores Efeitos Visuais",
+      "winners": [
+         "Tenet"
+      ],
+      "info": [
+         "Andrew Jackson",
+         "David Lee",
+         "Andrew Lockley",
+         "Scott R. Fisher"
+      ]
+   },
+   {
+      "category": "Melhor Documentário de Longa-Metragem",
+      "winners": [
+         "My Octopus Teacher"
+      ],
+      "info": [
+         "Pippa Ehrlich",
+         "James Reed",
+         "Craig Foster"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem Documental",
+      "winners": [
+         "Colette"
+      ],
+      "info": [
+         "Anthony Giacchino",
+         "Alice Doyard"
+      ]
+   },
+   {
+      "category": "Melhor Filme de Animação",
+      "winners": [
+         "Soul"
+      ],
+      "info": [
+         "Pete Docter",
+         "Dana Murray"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Animação",
+      "winners": [
+         "If Anything Happens I Love You"
+      ],
+      "info": [
+         "Will McCormack",
+         "Michael Govier"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Imagem Real",
+      "winners": [
+         "Two Distant Strangers"
+      ],
+      "info": [
+         "Travon Free",
+         "Martin Desmond Roe"
+      ]
+   },
+   {
+      "category": "Melhor Filme Internacional",
+      "winners": [
+         "Another Round"
+      ],
+      "info": []
+   }
+]

@@ -1,0 +1,232 @@
+[
+   {
+      "category": "Melhor Filme do Ano",
+      "winners": [
+         "Million Dollar Baby"
+      ],
+      "info": [
+         "Clint Eastwood",
+         "Albert S. Ruddy",
+         "Tom Rosenberg"
+      ]
+   },
+   {
+      "category": "Melhor Ator Principal",
+      "winners": [
+         "Jamie Foxx"
+      ],
+      "info": [
+         "Ray"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Principal",
+      "winners": [
+         "Hilary Swank"
+      ],
+      "info": [
+         "Million Dollar Baby"
+      ]
+   },
+   {
+      "category": "Melhor Ator Secundário",
+      "winners": [
+         "Morgan Freeman"
+      ],
+      "info": [
+         "Million Dollar Baby"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Secundária",
+      "winners": [
+         "Cate Blanchett"
+      ],
+      "info": [
+         "The Aviator"
+      ]
+   },
+   {
+      "category": "Melhor Realização",
+      "winners": [
+         "Clint Eastwood"
+      ],
+      "info": [
+         "Million Dollar Baby"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Original",
+      "winners": [
+         "Eternal Sunshine of the Spotless Mind"
+      ],
+      "info": [
+         "Charlie Kaufman",
+         "Michel Gondry",
+         "Pierre Bismuth"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Adaptado",
+      "winners": [
+         "Sideways"
+      ],
+      "info": [
+         "Alexander Payne",
+         "Jim Taylor"
+      ]
+   },
+   {
+      "category": "Melhor Fotografia",
+      "winners": [
+         "The Aviator"
+      ],
+      "info": [
+         "Robert Richardson"
+      ]
+   },
+   {
+      "category": "Melhor Direção Artística",
+      "winners": [
+         "The Aviator"
+      ],
+      "info": [
+         "Dante Ferretti",
+         "Francesca Lo Schiavo"
+      ]
+   },
+   {
+      "category": "Melhor Montagem",
+      "winners": [
+         "The Aviator"
+      ],
+      "info": [
+         "Thelma Schoonmaker"
+      ]
+   },
+   {
+      "category": "Melhor Guarda-Roupa",
+      "winners": [
+         "The Aviator"
+      ],
+      "info": [
+         "Sandy Powell"
+      ]
+   },
+   {
+      "category": "Melhor Canção Original",
+      "winners": [
+         "The Motorcycle Diaries"
+      ],
+      "info": [
+         "Jorge Drexler"
+      ]
+   },
+   {
+      "category": "Melhor Banda Sonora Original",
+      "winners": [
+         "Finding Neverland"
+      ],
+      "info": [
+         "Jan A.P. Kaczmarek"
+      ]
+   },
+   {
+      "category": "Melhor Mistura de Som",
+      "winners": [
+         "Ray"
+      ],
+      "info": [
+         "Scott Millan",
+         "Greg Orloff",
+         "Bob Beemer",
+         "Steve Cantamessa"
+      ]
+   },
+   {
+      "category": "Melhor Montagem de Som",
+      "winners": [
+         "The Incredibles"
+      ],
+      "info": [
+         "Michael Silvers",
+         "Randy Thom"
+      ]
+   },
+   {
+      "category": "Melhores Efeitos Visuais",
+      "winners": [
+         "Spider-Man 2"
+      ],
+      "info": [
+         "John Dykstra",
+         "Scott Stokdyk",
+         "Anthony LaMolinara",
+         "John Frazier"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Animação",
+      "winners": [
+         "Ryan"
+      ],
+      "info": [
+         "Chris Landreth"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Imagem Real",
+      "winners": [
+         "Wasp"
+      ],
+      "info": [
+         "Andrea Arnold"
+      ]
+   },
+   {
+      "category": "Melhor Documentário, Curtas-Metragens",
+      "winners": [
+         "Mighty Times: The Children's March"
+      ],
+      "info": [
+         "Robert Hudson",
+         "Robert Houston"
+      ]
+   },
+   {
+      "category": "Melhor Documentário, Longas-Metragens",
+      "winners": [
+         "Born Into Brothels: Calcutta's Red Light Kids"
+      ],
+      "info": [
+         "Ross Kauffman",
+         "Zana Briski"
+      ]
+   },
+   {
+      "category": "Melhor Filme de Língua Estrangeira do Ano",
+      "winners": [
+         "The Sea Inside"
+      ],
+      "info": []
+   },
+   {
+      "category": "Melhor Filme de Animação do Ano",
+      "winners": [
+         "The Incredibles"
+      ],
+      "info": [
+         "Brad Bird"
+      ]
+   },
+   {
+      "category": "Melhor Caracterização",
+      "winners": [
+         "A Series of Unfortunate Events"
+      ],
+      "info": [
+         "Valli O'Reilly",
+         "Bill Corso"
+      ]
+   }
+]

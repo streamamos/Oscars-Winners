@@ -1,0 +1,230 @@
+[
+   {
+      "category": "Melhor Filme do Ano",
+      "winners": [
+         "Argo"
+      ],
+      "info": [
+         "Grant Heslov",
+         "Ben Affleck",
+         "George Clooney"
+      ]
+   },
+   {
+      "category": "Melhor Ator Principal",
+      "winners": [
+         "Daniel Day-Lewis"
+      ],
+      "info": [
+         "Lincoln"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Principal",
+      "winners": [
+         "Jennifer Lawrence"
+      ],
+      "info": [
+         "Silver Linings Playbook"
+      ]
+   },
+   {
+      "category": "Melhor Ator Secundário",
+      "winners": [
+         "Christoph Waltz"
+      ],
+      "info": [
+         "Django Unchained"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Secundária",
+      "winners": [
+         "Anne Hathaway"
+      ],
+      "info": [
+         "Les Mis\u00e9rables"
+      ]
+   },
+   {
+      "category": "Melhor Realização",
+      "winners": [
+         "Ang Lee"
+      ],
+      "info": [
+         "Life of Pi"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Original",
+      "winners": [
+         "Django Unchained"
+      ],
+      "info": [
+         "Quentin Tarantino"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Adaptado",
+      "winners": [
+         "Argo"
+      ],
+      "info": [
+         "Chris Terrio"
+      ]
+   },
+   {
+      "category": "Melhor Fotografia",
+      "winners": [
+         "Life of Pi"
+      ],
+      "info": [
+         "Claudio Miranda"
+      ]
+   },
+   {
+      "category": "Melhor Montagem",
+      "winners": [
+         "Argo"
+      ],
+      "info": [
+         "William Goldenberg"
+      ]
+   },
+   {
+      "category": "Melhor Design de Produção",
+      "winners": [
+         "Lincoln"
+      ],
+      "info": [
+         "Rick Carter",
+         "Jim Erickson"
+      ]
+   },
+   {
+      "category": "Melhor Guarda-Roupa",
+      "winners": [
+         "Anna Karenina"
+      ],
+      "info": [
+         "Jacqueline Durran"
+      ]
+   },
+   {
+      "category": "Melhor Caracterização e Penteados",
+      "winners": [
+         "Les Mis\u00e9rables"
+      ],
+      "info": [
+         "Lisa Westcott",
+         "Julie Dartnell"
+      ]
+   },
+   {
+      "category": "Melhor Canção Original",
+      "winners": [
+         "Skyfall"
+      ],
+      "info": [
+         "Adele",
+         "Paul Epworth"
+      ]
+   },
+   {
+      "category": "Melhor Banda Sonora Original",
+      "winners": [
+         "Life of Pi"
+      ],
+      "info": [
+         "Mychael Danna"
+      ]
+   },
+   {
+      "category": "Melhor Mistura de Som",
+      "winners": [
+         "Les Mis\u00e9rables"
+      ],
+      "info": [
+         "Andy Nelson",
+         "Mark Paterson",
+         "Simon Hayes"
+      ]
+   },
+   {
+      "category": "Melhor Montagem de Som",
+      "winners": [
+         "Skyfall"
+      ],
+      "info": [
+         "Per Hallberg",
+         "Karen Baker Landers"
+      ]
+   },
+   {
+      "category": "Melhores Efeitos Visuais",
+      "winners": [
+         "Life of Pi"
+      ],
+      "info": [
+         "Bill Westenhofer",
+         "Guillaume Rocheron",
+         "Erik De Boer",
+         "Donald Elliott"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Animação",
+      "winners": [
+         "Paperman"
+      ],
+      "info": [
+         "John Kahrs"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Imagem Real",
+      "winners": [
+         "Curfew"
+      ],
+      "info": [
+         "Shawn Christensen"
+      ]
+   },
+   {
+      "category": "Melhor Documentário, Curtas-Metragens",
+      "winners": [
+         "Inocente"
+      ],
+      "info": [
+         "Sean Fine",
+         "Andrea Nix"
+      ]
+   },
+   {
+      "category": "Melhor Documentário, Longas-Metragens",
+      "winners": [
+         "Searching for Sugar Man"
+      ],
+      "info": [
+         "Malik Bendjelloul",
+         "Simon Chinn"
+      ]
+   },
+   {
+      "category": "Melhor Filme de Língua Estrangeira do Ano",
+      "winners": [
+         "Amour"
+      ],
+      "info": []
+   },
+   {
+      "category": "Melhor Filme de Animação",
+      "winners": [
+         "Brave"
+      ],
+      "info": [
+         "Mark Andrews",
+         "Brenda Chapman"
+      ]
+   }
+]

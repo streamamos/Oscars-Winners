@@ -1,0 +1,225 @@
+[
+   {
+      "category": "Melhor Filme do Ano",
+      "winners": [
+         "The Departed"
+      ],
+      "info": [
+         "Graham King"
+      ]
+   },
+   {
+      "category": "Melhor Ator Principal",
+      "winners": [
+         "Forest Whitaker"
+      ],
+      "info": [
+         "The Last King of Scotland"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Principal",
+      "winners": [
+         "Helen Mirren"
+      ],
+      "info": [
+         "The Queen"
+      ]
+   },
+   {
+      "category": "Melhor Ator Secundário",
+      "winners": [
+         "Alan Arkin"
+      ],
+      "info": [
+         "Little Miss Sunshine"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Secundária",
+      "winners": [
+         "Jennifer Hudson"
+      ],
+      "info": [
+         "Dreamgirls"
+      ]
+   },
+   {
+      "category": "Melhor Realização",
+      "winners": [
+         "Martin Scorsese"
+      ],
+      "info": [
+         "The Departed"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Original",
+      "winners": [
+         "Little Miss Sunshine"
+      ],
+      "info": [
+         "Michael Arndt"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Adaptado",
+      "winners": [
+         "The Departed"
+      ],
+      "info": [
+         "William Monahan"
+      ]
+   },
+   {
+      "category": "Melhor Fotografia",
+      "winners": [
+         "Pan's Labyrinth"
+      ],
+      "info": [
+         "Guillermo Navarro"
+      ]
+   },
+   {
+      "category": "Melhor Direção Artística",
+      "winners": [
+         "Pan's Labyrinth"
+      ],
+      "info": [
+         "Eugenio Caballero",
+         "Pilar Revuelta"
+      ]
+   },
+   {
+      "category": "Melhor Montagem",
+      "winners": [
+         "The Departed"
+      ],
+      "info": [
+         "Thelma Schoonmaker"
+      ]
+   },
+   {
+      "category": "Melhor Guarda-Roupa",
+      "winners": [
+         "Marie Antoinette"
+      ],
+      "info": [
+         "Milena Canonero"
+      ]
+   },
+   {
+      "category": "Melhor Canção Original",
+      "winners": [
+         "An Inconvenient Truth"
+      ],
+      "info": [
+         "Melissa Etheridge"
+      ]
+   },
+   {
+      "category": "Melhor Banda Sonora Original",
+      "winners": [
+         "Babel"
+      ],
+      "info": [
+         "Gustavo Santaolalla"
+      ]
+   },
+   {
+      "category": "Melhor Mistura de Som",
+      "winners": [
+         "Dreamgirls"
+      ],
+      "info": [
+         "Michael Minkler",
+         "Bob Beemer",
+         "Willie D. Burton"
+      ]
+   },
+   {
+      "category": "Melhor Montagem de Som",
+      "winners": [
+         "Letters from Iwo Jima"
+      ],
+      "info": [
+         "Alan Robert Murray",
+         "Bub Asman"
+      ]
+   },
+   {
+      "category": "Melhores Efeitos Visuais",
+      "winners": [
+         "Pirates of the Caribbean: Dead Man's Chest"
+      ],
+      "info": [
+         "John Knoll",
+         "Hal T. Hickel",
+         "Charles Gibson",
+         "Allen Hall"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Animação",
+      "winners": [
+         "The Danish Poet"
+      ],
+      "info": [
+         "Torill Kove"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Imagem Real",
+      "winners": [
+         "West Bank Story"
+      ],
+      "info": [
+         "Ari Sandel"
+      ]
+   },
+   {
+      "category": "Melhor Documentário, Curtas-Metragens",
+      "winners": [
+         "The Blood of Yingzhou District"
+      ],
+      "info": [
+         "Ruby Yang",
+         "Thomas Lennon"
+      ]
+   },
+   {
+      "category": "Melhor Documentário, Longas-Metragens",
+      "winners": [
+         "An Inconvenient Truth"
+      ],
+      "info": [
+         "Davis Guggenheim"
+      ]
+   },
+   {
+      "category": "Melhor Filme de Língua Estrangeira do Ano",
+      "winners": [
+         "The Lives of Others"
+      ],
+      "info": []
+   },
+   {
+      "category": "Melhor Filme de Animação do Ano",
+      "winners": [
+         "Happy Feet"
+      ],
+      "info": [
+         "George Miller"
+      ]
+   },
+   {
+      "category": "Melhor Caracterização",
+      "winners": [
+         "Pan's Labyrinth"
+      ],
+      "info": [
+         "David Mart\u00ed",
+         "Montse Rib\u00e9"
+      ]
+   }
+]

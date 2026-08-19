@@ -1,0 +1,232 @@
+[
+   {
+      "category": "Melhor Filme do Ano",
+      "winners": [
+         "The Hurt Locker"
+      ],
+      "info": [
+         "Kathryn Bigelow",
+         "Mark Boal",
+         "Nicolas Chartier",
+         "Greg Shapiro"
+      ]
+   },
+   {
+      "category": "Melhor Ator Principal",
+      "winners": [
+         "Jeff Bridges"
+      ],
+      "info": [
+         "Crazy Heart"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Principal",
+      "winners": [
+         "Sandra Bullock"
+      ],
+      "info": [
+         "The Blind Side"
+      ]
+   },
+   {
+      "category": "Melhor Ator Secundário",
+      "winners": [
+         "Christoph Waltz"
+      ],
+      "info": [
+         "Inglourious Basterds"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Secundária",
+      "winners": [
+         "Mo'Nique"
+      ],
+      "info": [
+         "Precious"
+      ]
+   },
+   {
+      "category": "Melhor Realização",
+      "winners": [
+         "Kathryn Bigelow"
+      ],
+      "info": [
+         "The Hurt Locker"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Original",
+      "winners": [
+         "The Hurt Locker"
+      ],
+      "info": [
+         "Mark Boal"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Adaptado",
+      "winners": [
+         "Precious"
+      ],
+      "info": [
+         "Geoffrey Fletcher"
+      ]
+   },
+   {
+      "category": "Melhor Fotografia",
+      "winners": [
+         "Avatar"
+      ],
+      "info": [
+         "Mauro Fiore"
+      ]
+   },
+   {
+      "category": "Melhor Direção Artística",
+      "winners": [
+         "Avatar"
+      ],
+      "info": [
+         "Rick Carter",
+         "Robert Stromberg",
+         "Kim Sinclair"
+      ]
+   },
+   {
+      "category": "Melhor Montagem",
+      "winners": [
+         "The Hurt Locker"
+      ],
+      "info": [
+         "Bob Murawski",
+         "Chris Innis"
+      ]
+   },
+   {
+      "category": "Melhor Guarda-Roupa",
+      "winners": [
+         "The Young Victoria"
+      ],
+      "info": [
+         "Sandy Powell"
+      ]
+   },
+   {
+      "category": "Melhor Canção Original",
+      "winners": [
+         "Crazy Heart"
+      ],
+      "info": [
+         "Ryan Bingham",
+         "T Bone Burnett"
+      ]
+   },
+   {
+      "category": "Melhor Banda Sonora Original",
+      "winners": [
+         "Up"
+      ],
+      "info": [
+         "Michael Giacchino"
+      ]
+   },
+   {
+      "category": "Melhor Mistura de Som",
+      "winners": [
+         "The Hurt Locker"
+      ],
+      "info": [
+         "Paul N.J. Ottosson",
+         "Ray Beckett"
+      ]
+   },
+   {
+      "category": "Melhor Montagem de Som",
+      "winners": [
+         "The Hurt Locker"
+      ],
+      "info": [
+         "Paul N.J. Ottosson"
+      ]
+   },
+   {
+      "category": "Melhores Efeitos Visuais",
+      "winners": [
+         "Avatar"
+      ],
+      "info": [
+         "Joe Letteri",
+         "Stephen Rosenbaum",
+         "Richard Baneham",
+         "Andrew R. Jones"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Animação",
+      "winners": [
+         "Logorama"
+      ],
+      "info": [
+         "Nicolas Schmerkin"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Imagem Real",
+      "winners": [
+         "The New Tenants"
+      ],
+      "info": [
+         "Joachim Back",
+         "Tivi Magnusson"
+      ]
+   },
+   {
+      "category": "Melhor Documentário, Curtas-Metragens",
+      "winners": [
+         "Music by Prudence"
+      ],
+      "info": [
+         "Roger Ross Williams",
+         "Elinor Burkett"
+      ]
+   },
+   {
+      "category": "Melhor Documentário, Longas-Metragens",
+      "winners": [
+         "The Cove"
+      ],
+      "info": [
+         "Louie Psihoyos",
+         "Fisher Stevens"
+      ]
+   },
+   {
+      "category": "Melhor Filme de Língua Estrangeira do Ano",
+      "winners": [
+         "The Secret in Their Eyes"
+      ],
+      "info": []
+   },
+   {
+      "category": "Melhor Filme de Animação do Ano",
+      "winners": [
+         "Up"
+      ],
+      "info": [
+         "Pete Docter"
+      ]
+   },
+   {
+      "category": "Melhor Caracterização",
+      "winners": [
+         "Star Trek"
+      ],
+      "info": [
+         "Barney Burman",
+         "Mindy Hall",
+         "Joel Harlow"
+      ]
+   }
+]

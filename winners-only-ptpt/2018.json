@@ -1,0 +1,232 @@
+[
+   {
+      "category": "Melhor Filme do Ano",
+      "winners": [
+         "The Shape of Water"
+      ],
+      "info": [
+         "Guillermo del Toro",
+         "J. Miles Dale"
+      ]
+   },
+   {
+      "category": "Melhor Ator Principal",
+      "winners": [
+         "Gary Oldman"
+      ],
+      "info": [
+         "Darkest Hour"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Principal",
+      "winners": [
+         "Frances McDormand"
+      ],
+      "info": [
+         "Three Billboards Outside Ebbing, Missouri"
+      ]
+   },
+   {
+      "category": "Melhor Ator Secundário",
+      "winners": [
+         "Sam Rockwell"
+      ],
+      "info": [
+         "Three Billboards Outside Ebbing, Missouri"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Secundária",
+      "winners": [
+         "Allison Janney"
+      ],
+      "info": [
+         "I, Tonya"
+      ]
+   },
+   {
+      "category": "Melhor Realização",
+      "winners": [
+         "Guillermo del Toro"
+      ],
+      "info": [
+         "The Shape of Water"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Original",
+      "winners": [
+         "Get Out"
+      ],
+      "info": [
+         "Jordan Peele"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Adaptado",
+      "winners": [
+         "Call Me by Your Name"
+      ],
+      "info": [
+         "James Ivory"
+      ]
+   },
+   {
+      "category": "Melhor Fotografia",
+      "winners": [
+         "Blade Runner 2049"
+      ],
+      "info": [
+         "Roger Deakins"
+      ]
+   },
+   {
+      "category": "Melhor Montagem",
+      "winners": [
+         "Dunkirk"
+      ],
+      "info": [
+         "Lee Smith"
+      ]
+   },
+   {
+      "category": "Melhor Design de Produção",
+      "winners": [
+         "The Shape of Water"
+      ],
+      "info": [
+         "Paul D. Austerberry",
+         "Shane Vieau",
+         "Jeffrey A. Melvin"
+      ]
+   },
+   {
+      "category": "Melhor Guarda-Roupa",
+      "winners": [
+         "Phantom Thread"
+      ],
+      "info": [
+         "Mark Bridges"
+      ]
+   },
+   {
+      "category": "Melhor Caracterização e Penteados",
+      "winners": [
+         "Darkest Hour"
+      ],
+      "info": [
+         "Kazu Hiro",
+         "David Malinowski",
+         "Lucy Sibbick"
+      ]
+   },
+   {
+      "category": "Melhor Banda Sonora Original",
+      "winners": [
+         "The Shape of Water"
+      ],
+      "info": [
+         "Alexandre Desplat"
+      ]
+   },
+   {
+      "category": "Melhor Canção Original",
+      "winners": [
+         "Coco"
+      ],
+      "info": [
+         "Kristen Anderson-Lopez",
+         "Robert Lopez"
+      ]
+   },
+   {
+      "category": "Melhor Mistura de Som",
+      "winners": [
+         "Dunkirk"
+      ],
+      "info": [
+         "Gregg Landaker",
+         "Gary A. Rizzo",
+         "Mark Weingarten"
+      ]
+   },
+   {
+      "category": "Melhor Montagem de Som",
+      "winners": [
+         "Dunkirk"
+      ],
+      "info": [
+         "Richard King",
+         "Alex Gibson"
+      ]
+   },
+   {
+      "category": "Melhores Efeitos Visuais",
+      "winners": [
+         "Blade Runner 2049"
+      ],
+      "info": [
+         "John Nelson",
+         "Gerd Nefzer",
+         "Paul Lambert",
+         "Richard R. Hoover"
+      ]
+   },
+   {
+      "category": "Melhor Documentário de Longa-Metragem",
+      "winners": [
+         "Icarus"
+      ],
+      "info": [
+         "Bryan Fogel",
+         "Dan Cogan"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem Documental",
+      "winners": [
+         "Heaven Is a Traffic Jam on the 405"
+      ],
+      "info": [
+         "Frank Stiefel"
+      ]
+   },
+   {
+      "category": "Melhor Filme de Animação",
+      "winners": [
+         "Coco"
+      ],
+      "info": [
+         "Lee Unkrich",
+         "Darla K. Anderson"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Animação",
+      "winners": [
+         "Dear Basketball"
+      ],
+      "info": [
+         "Glen Keane",
+         "Kobe Bryant"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Imagem Real",
+      "winners": [
+         "The Silent Child"
+      ],
+      "info": [
+         "Chris Overton",
+         "Rachel Shenton"
+      ]
+   },
+   {
+      "category": "Melhor Filme de Língua Estrangeira do Ano",
+      "winners": [
+         "A Fantastic Woman"
+      ],
+      "info": []
+   }
+]

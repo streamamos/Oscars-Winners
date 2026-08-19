@@ -1,0 +1,237 @@
+[
+   {
+      "category": "Melhor Filme do Ano",
+      "winners": [
+         "Birdman"
+      ],
+      "info": [
+         "Alejandro G. I\u00f1\u00e1rritu",
+         "John Lesher",
+         "James W. Skotchdopole"
+      ]
+   },
+   {
+      "category": "Melhor Ator Principal",
+      "winners": [
+         "Eddie Redmayne"
+      ],
+      "info": [
+         "The Theory of Everything"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Principal",
+      "winners": [
+         "Julianne Moore"
+      ],
+      "info": [
+         "Still Alice"
+      ]
+   },
+   {
+      "category": "Melhor Ator Secundário",
+      "winners": [
+         "J.K. Simmons"
+      ],
+      "info": [
+         "Whiplash"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Secundária",
+      "winners": [
+         "Patricia Arquette"
+      ],
+      "info": [
+         "Boyhood"
+      ]
+   },
+   {
+      "category": "Melhor Realização",
+      "winners": [
+         "Alejandro G. I\u00f1\u00e1rritu"
+      ],
+      "info": [
+         "Birdman"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Original",
+      "winners": [
+         "Birdman"
+      ],
+      "info": [
+         "Alejandro G. I\u00f1\u00e1rritu",
+         "Nicol\u00e1s Giacobone",
+         "Alexander Dinelaris",
+         "Armando Bo"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Adaptado",
+      "winners": [
+         "The Imitation Game"
+      ],
+      "info": [
+         "Graham Moore"
+      ]
+   },
+   {
+      "category": "Melhor Fotografia",
+      "winners": [
+         "Birdman"
+      ],
+      "info": [
+         "Emmanuel Lubezki"
+      ]
+   },
+   {
+      "category": "Melhor Montagem",
+      "winners": [
+         "Whiplash"
+      ],
+      "info": [
+         "Tom Cross"
+      ]
+   },
+   {
+      "category": "Melhor Design de Produção",
+      "winners": [
+         "The Grand Budapest Hotel"
+      ],
+      "info": [
+         "Adam Stockhausen",
+         "Anna Pinnock"
+      ]
+   },
+   {
+      "category": "Melhor Guarda-Roupa",
+      "winners": [
+         "The Grand Budapest Hotel"
+      ],
+      "info": [
+         "Milena Canonero"
+      ]
+   },
+   {
+      "category": "Melhor Caracterização e Penteados",
+      "winners": [
+         "The Grand Budapest Hotel"
+      ],
+      "info": [
+         "Frances Hannon",
+         "Mark Coulier"
+      ]
+   },
+   {
+      "category": "Melhor Canção Original",
+      "winners": [
+         "Selma"
+      ],
+      "info": [
+         "Common",
+         "John Legend"
+      ]
+   },
+   {
+      "category": "Melhor Banda Sonora Original",
+      "winners": [
+         "The Grand Budapest Hotel"
+      ],
+      "info": [
+         "Alexandre Desplat"
+      ]
+   },
+   {
+      "category": "Melhor Mistura de Som",
+      "winners": [
+         "Whiplash"
+      ],
+      "info": [
+         "Craig Mann",
+         "Ben Wilkins",
+         "Thomas Curley"
+      ]
+   },
+   {
+      "category": "Melhor Montagem de Som",
+      "winners": [
+         "American Sniper"
+      ],
+      "info": [
+         "Alan Robert Murray",
+         "Bub Asman"
+      ]
+   },
+   {
+      "category": "Melhores Efeitos Visuais",
+      "winners": [
+         "Interstellar"
+      ],
+      "info": [
+         "Paul J. Franklin",
+         "Andrew Lockley",
+         "Ian Hunter",
+         "Scott R. Fisher"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Animação",
+      "winners": [
+         "Feast"
+      ],
+      "info": [
+         "Patrick Osborne",
+         "Kristina Reed"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Imagem Real",
+      "winners": [
+         "The Phone Call"
+      ],
+      "info": [
+         "Mat Kirkby",
+         "James Lucas"
+      ]
+   },
+   {
+      "category": "Melhor Documentário, Curta-Metragem",
+      "winners": [
+         "Crisis Hotline: Veterans Press 1"
+      ],
+      "info": [
+         "Ellen Goosenberg Kent",
+         "Dana Heinz Perry"
+      ]
+   },
+   {
+      "category": "Melhor Documentário, Longa-Metragem",
+      "winners": [
+         "Citizenfour"
+      ],
+      "info": [
+         "Laura Poitras",
+         "Mathilde Bonnefoy",
+         "Dirk Wilutzky"
+      ]
+   },
+   {
+      "category": "Melhor Filme de Língua Estrangeira do Ano",
+      "winners": [
+         "Ida"
+      ],
+      "info": []
+   },
+   {
+      "category": "Melhor Filme de Animação do Ano",
+      "winners": [
+         "Big Hero 6"
+      ],
+      "info": [
+         "Don Hall",
+         "Chris Williams",
+         "Roy Conli"
+      ]
+   }
+]

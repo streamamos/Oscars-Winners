@@ -1,0 +1,234 @@
+[
+   {
+      "category": "Melhor Ator Principal",
+      "winners": [
+         "Jack Nicholson"
+      ],
+      "info": [
+         "As Good as It Gets"
+      ]
+   },
+   {
+      "category": "Melhor Ator Secundário",
+      "winners": [
+         "Robin Williams"
+      ],
+      "info": [
+         "Good Will Hunting"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Principal",
+      "winners": [
+         "Helen Hunt"
+      ],
+      "info": [
+         "As Good as It Gets"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Secundária",
+      "winners": [
+         "Kim Basinger"
+      ],
+      "info": [
+         "L.A. Confidential"
+      ]
+   },
+   {
+      "category": "Melhor Direção Artística — Decoração de Cenários",
+      "winners": [
+         "Titanic"
+      ],
+      "info": [
+         "Peter Lamont",
+         "Michael Ford"
+      ]
+   },
+   {
+      "category": "Melhor Fotografia",
+      "winners": [
+         "Titanic"
+      ],
+      "info": [
+         "Russell Carpenter"
+      ]
+   },
+   {
+      "category": "Melhor Guarda-Roupa",
+      "winners": [
+         "Titanic"
+      ],
+      "info": [
+         "Deborah L. Scott"
+      ]
+   },
+   {
+      "category": "Melhor Realização",
+      "winners": [
+         "James Cameron"
+      ],
+      "info": [
+         "Titanic"
+      ]
+   },
+   {
+      "category": "Melhor Documentário, Longas-Metragens",
+      "winners": [
+         "The Long Way Home"
+      ],
+      "info": [
+         "Marvin Hier",
+         "Richard Trank"
+      ]
+   },
+   {
+      "category": "Melhor Documentário, Curtas-Metragens",
+      "winners": [
+         "A Story of Healing"
+      ],
+      "info": [
+         "Donna Dewey",
+         "Carol Pasternak"
+      ]
+   },
+   {
+      "category": "Melhor Montagem de Efeitos Sonoros",
+      "winners": [
+         "Titanic"
+      ],
+      "info": [
+         "Tom Bellfort",
+         "Christopher Boyes"
+      ]
+   },
+   {
+      "category": "Melhores Efeitos Visuais",
+      "winners": [
+         "Titanic"
+      ],
+      "info": [
+         "Robert Legato",
+         "Mark A. Lasoff",
+         "Thomas L. Fisher",
+         "Michael Kanfer"
+      ]
+   },
+   {
+      "category": "Melhor Montagem",
+      "winners": [
+         "Titanic"
+      ],
+      "info": [
+         "Conrad Buff IV",
+         "James Cameron",
+         "Richard A. Harris"
+      ]
+   },
+   {
+      "category": "Melhor Filme de Língua Estrangeira",
+      "winners": [
+         "Character"
+      ],
+      "info": []
+   },
+   {
+      "category": "Melhor Caracterização",
+      "winners": [
+         "Men in Black"
+      ],
+      "info": [
+         "Rick Baker",
+         "David LeRoy Anderson"
+      ]
+   },
+   {
+      "category": "Melhor Banda Sonora Dramática Original",
+      "winners": [
+         "Titanic"
+      ],
+      "info": [
+         "James Horner"
+      ]
+   },
+   {
+      "category": "Melhor Banda Sonora Original de Filme Musical ou de Comédia",
+      "winners": [
+         "The Full Monty"
+      ],
+      "info": [
+         "Anne Dudley"
+      ]
+   },
+   {
+      "category": "Melhor Canção Original",
+      "winners": [
+         "Titanic"
+      ],
+      "info": [
+         "James Horner",
+         "Will Jennings"
+      ]
+   },
+   {
+      "category": "Melhor Filme",
+      "winners": [
+         "Titanic"
+      ],
+      "info": [
+         "James Cameron",
+         "Jon Landau"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Animação",
+      "winners": [
+         "Geri's Game"
+      ],
+      "info": [
+         "Jan Pinkava"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Imagem Real",
+      "winners": [
+         "Visas and Virtue"
+      ],
+      "info": [
+         "Chris Tashima",
+         "Chris Donahue"
+      ]
+   },
+   {
+      "category": "Melhor Som",
+      "winners": [
+         "Titanic"
+      ],
+      "info": [
+         "Gary Rydstrom",
+         "Tom Johnson",
+         "Gary Summers",
+         "Mark Ulano"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Baseado em Material Previamente Produzido ou Publicado",
+      "winners": [
+         "L.A. Confidential"
+      ],
+      "info": [
+         "Brian Helgeland",
+         "Curtis Hanson"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Escrito Diretamente para o Ecrã",
+      "winners": [
+         "Good Will Hunting"
+      ],
+      "info": [
+         "Matt Damon",
+         "Ben Affleck"
+      ]
+   }
+]

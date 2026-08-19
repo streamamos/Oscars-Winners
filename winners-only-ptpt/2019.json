@@ -1,0 +1,247 @@
+[
+   {
+      "category": "Melhor Filme do Ano",
+      "winners": [
+         "Green Book"
+      ],
+      "info": [
+         "Jim Burke",
+         "Charles B. Wessler",
+         "Brian Hayes Currie",
+         "Peter Farrelly",
+         "Nick Vallelonga"
+      ]
+   },
+   {
+      "category": "Melhor Ator Principal",
+      "winners": [
+         "Rami Malek"
+      ],
+      "info": [
+         "Bohemian Rhapsody"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Principal",
+      "winners": [
+         "Olivia Colman"
+      ],
+      "info": [
+         "The Favourite"
+      ]
+   },
+   {
+      "category": "Melhor Ator Secundário",
+      "winners": [
+         "Mahershala Ali"
+      ],
+      "info": [
+         "Green Book"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Secundária",
+      "winners": [
+         "Regina King"
+      ],
+      "info": [
+         "If Beale Street Could Talk"
+      ]
+   },
+   {
+      "category": "Melhor Realização",
+      "winners": [
+         "Alfonso Cuar\u00f3n"
+      ],
+      "info": [
+         "Roma"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Original",
+      "winners": [
+         "Green Book"
+      ],
+      "info": [
+         "Nick Vallelonga",
+         "Brian Hayes Currie",
+         "Peter Farrelly"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Adaptado",
+      "winners": [
+         "BlacKkKlansman"
+      ],
+      "info": [
+         "Charlie Wachtel",
+         "David Rabinowitz",
+         "Kevin Willmott",
+         "Spike Lee"
+      ]
+   },
+   {
+      "category": "Melhor Fotografia",
+      "winners": [
+         "Roma"
+      ],
+      "info": [
+         "Alfonso Cuar\u00f3n"
+      ]
+   },
+   {
+      "category": "Melhor Montagem",
+      "winners": [
+         "Bohemian Rhapsody"
+      ],
+      "info": [
+         "John Ottman"
+      ]
+   },
+   {
+      "category": "Melhor Design de Produção",
+      "winners": [
+         "Black Panther"
+      ],
+      "info": [
+         "Hannah Beachler",
+         "Jay Hart"
+      ]
+   },
+   {
+      "category": "Melhor Guarda-Roupa",
+      "winners": [
+         "Black Panther"
+      ],
+      "info": [
+         "Ruth E. Carter"
+      ]
+   },
+   {
+      "category": "Melhor Caracterização e Penteados",
+      "winners": [
+         "Vice"
+      ],
+      "info": [
+         "Greg Cannom",
+         "Kate Biscoe",
+         "Patricia Dehaney"
+      ]
+   },
+   {
+      "category": "Melhor Banda Sonora Original",
+      "winners": [
+         "Black Panther"
+      ],
+      "info": [
+         "Ludwig G\u00f6ransson"
+      ]
+   },
+   {
+      "category": "Melhor Canção Original",
+      "winners": [
+         "A Star Is Born"
+      ],
+      "info": [
+         "Lady Gaga",
+         "Mark Ronson",
+         "Anthony Rossomando",
+         "Andrew Wyatt"
+      ]
+   },
+   {
+      "category": "Melhor Mistura de Som",
+      "winners": [
+         "Bohemian Rhapsody"
+      ],
+      "info": [
+         "Paul Massey",
+         "Tim Cavagin",
+         "John Casali"
+      ]
+   },
+   {
+      "category": "Melhor Montagem de Som",
+      "winners": [
+         "Bohemian Rhapsody"
+      ],
+      "info": [
+         "John Warhurst",
+         "Nina Hartstone"
+      ]
+   },
+   {
+      "category": "Melhores Efeitos Visuais",
+      "winners": [
+         "First Man"
+      ],
+      "info": [
+         "Paul Lambert",
+         "Ian Hunter",
+         "Tristan Myles",
+         "J.D. Schwalm"
+      ]
+   },
+   {
+      "category": "Melhor Documentário de Longa-Metragem",
+      "winners": [
+         "Free Solo"
+      ],
+      "info": [
+         "Elizabeth Chai Vasarhelyi",
+         "Jimmy Chin",
+         "Evan Hayes",
+         "Shannon Dill"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem Documental",
+      "winners": [
+         "Period. End of Sentence."
+      ],
+      "info": [
+         "Rayka Zehtabchi",
+         "Melissa Berton"
+      ]
+   },
+   {
+      "category": "Melhor Filme de Animação",
+      "winners": [
+         "Spider-Man: Into the Spider-Verse"
+      ],
+      "info": [
+         "Bob Persichetti",
+         "Peter Ramsey",
+         "Rodney Rothman",
+         "Phil Lord",
+         "Christopher Miller"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Animação",
+      "winners": [
+         "Bao"
+      ],
+      "info": [
+         "Domee Shi",
+         "Becky Neiman"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Imagem Real",
+      "winners": [
+         "Skin"
+      ],
+      "info": [
+         "Guy Nattiv",
+         "Jaime Ray Newman"
+      ]
+   },
+   {
+      "category": "Melhor Filme de Língua Estrangeira do Ano",
+      "winners": [
+         "Roma"
+      ],
+      "info": []
+   }
+]

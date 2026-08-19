@@ -1,0 +1,236 @@
+[
+   {
+      "category": "Melhor Filme do Ano",
+      "winners": [
+         "Moonlight"
+      ],
+      "info": [
+         "Dede Gardner",
+         "Jeremy Kleiner",
+         "Adele Romanski"
+      ]
+   },
+   {
+      "category": "Melhor Ator Principal",
+      "winners": [
+         "Casey Affleck"
+      ],
+      "info": [
+         "Manchester by the Sea"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Principal",
+      "winners": [
+         "Emma Stone"
+      ],
+      "info": [
+         "La La Land"
+      ]
+   },
+   {
+      "category": "Melhor Ator Secundário",
+      "winners": [
+         "Mahershala Ali"
+      ],
+      "info": [
+         "Moonlight"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Secundária",
+      "winners": [
+         "Viola Davis"
+      ],
+      "info": [
+         "Fences"
+      ]
+   },
+   {
+      "category": "Melhor Realização",
+      "winners": [
+         "Damien Chazelle"
+      ],
+      "info": [
+         "La La Land"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Original",
+      "winners": [
+         "Manchester by the Sea"
+      ],
+      "info": [
+         "Kenneth Lonergan"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Adaptado",
+      "winners": [
+         "Moonlight"
+      ],
+      "info": [
+         "Barry Jenkins",
+         "Tarell Alvin McCraney"
+      ]
+   },
+   {
+      "category": "Melhor Fotografia",
+      "winners": [
+         "La La Land"
+      ],
+      "info": [
+         "Linus Sandgren"
+      ]
+   },
+   {
+      "category": "Melhor Montagem",
+      "winners": [
+         "Hacksaw Ridge"
+      ],
+      "info": [
+         "John Gilbert"
+      ]
+   },
+   {
+      "category": "Melhor Design de Produção",
+      "winners": [
+         "La La Land"
+      ],
+      "info": [
+         "David Wasco",
+         "Sandy Reynolds-Wasco"
+      ]
+   },
+   {
+      "category": "Melhor Guarda-Roupa",
+      "winners": [
+         "Fantastic Beasts and Where to Find Them"
+      ],
+      "info": [
+         "Colleen Atwood"
+      ]
+   },
+   {
+      "category": "Melhor Caracterização e Penteados",
+      "winners": [
+         "Suicide Squad"
+      ],
+      "info": [
+         "Alessandro Bertolazzi",
+         "Giorgio Gregorini",
+         "Christopher Allen Nelson"
+      ]
+   },
+   {
+      "category": "Melhor Banda Sonora Original",
+      "winners": [
+         "La La Land"
+      ],
+      "info": [
+         "Justin Hurwitz"
+      ]
+   },
+   {
+      "category": "Melhor Canção Original",
+      "winners": [
+         "La La Land"
+      ],
+      "info": [
+         "Justin Hurwitz",
+         "Benj Pasek",
+         "Justin Paul"
+      ]
+   },
+   {
+      "category": "Melhor Mistura de Som",
+      "winners": [
+         "Hacksaw Ridge"
+      ],
+      "info": [
+         "Kevin O'Connell",
+         "Andy Wright",
+         "Robert Mackenzie",
+         "Peter Grace"
+      ]
+   },
+   {
+      "category": "Melhor Montagem de Som",
+      "winners": [
+         "Arrival"
+      ],
+      "info": [
+         "Sylvain Bellemare"
+      ]
+   },
+   {
+      "category": "Melhores Efeitos Visuais",
+      "winners": [
+         "The Jungle Book"
+      ],
+      "info": [
+         "Robert Legato",
+         "Adam Valdez",
+         "Andrew R. Jones",
+         "Dan Lemmon"
+      ]
+   },
+   {
+      "category": "Melhor Documentário de Longa-Metragem",
+      "winners": [
+         "O.J.: Made in America"
+      ],
+      "info": [
+         "Ezra Edelman",
+         "Caroline Waterlow"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem Documental",
+      "winners": [
+         "The White Helmets"
+      ],
+      "info": [
+         "Orlando von Einsiedel",
+         "Joanna Natasegara"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Animação",
+      "winners": [
+         "Piper"
+      ],
+      "info": [
+         "Alan Barillaro",
+         "Marc Sondheimer"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Imagem Real",
+      "winners": [
+         "Sing"
+      ],
+      "info": [
+         "Krist\u00f3f De\u00e1k",
+         "Anna Udvardy"
+      ]
+   },
+   {
+      "category": "Melhor Filme de Língua Estrangeira do Ano",
+      "winners": [
+         "The Salesman"
+      ],
+      "info": []
+   },
+   {
+      "category": "Melhor Filme de Animação do Ano",
+      "winners": [
+         "Zootopia"
+      ],
+      "info": [
+         "Byron Howard",
+         "Rich Moore",
+         "Clark Spencer"
+      ]
+   }
+]

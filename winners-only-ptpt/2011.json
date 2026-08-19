@@ -1,0 +1,230 @@
+[
+   {
+      "category": "Melhor Filme do Ano",
+      "winners": [
+         "The King's Speech"
+      ],
+      "info": [
+         "Iain Canning",
+         "Emile Sherman",
+         "Gareth Unwin"
+      ]
+   },
+   {
+      "category": "Melhor Ator Principal",
+      "winners": [
+         "Colin Firth"
+      ],
+      "info": [
+         "The King's Speech"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Principal",
+      "winners": [
+         "Natalie Portman"
+      ],
+      "info": [
+         "Black Swan"
+      ]
+   },
+   {
+      "category": "Melhor Ator Secundário",
+      "winners": [
+         "Christian Bale"
+      ],
+      "info": [
+         "The Fighter"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Secundária",
+      "winners": [
+         "Melissa Leo"
+      ],
+      "info": [
+         "The Fighter"
+      ]
+   },
+   {
+      "category": "Melhor Realização",
+      "winners": [
+         "Tom Hooper"
+      ],
+      "info": [
+         "The King's Speech"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Original",
+      "winners": [
+         "The King's Speech"
+      ],
+      "info": [
+         "David Seidler"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Adaptado",
+      "winners": [
+         "The Social Network"
+      ],
+      "info": [
+         "Aaron Sorkin"
+      ]
+   },
+   {
+      "category": "Melhor Fotografia",
+      "winners": [
+         "Inception"
+      ],
+      "info": [
+         "Wally Pfister"
+      ]
+   },
+   {
+      "category": "Melhor Direção Artística",
+      "winners": [
+         "Alice in Wonderland"
+      ],
+      "info": [
+         "Robert Stromberg",
+         "Karen O'Hara"
+      ]
+   },
+   {
+      "category": "Melhor Montagem",
+      "winners": [
+         "The Social Network"
+      ],
+      "info": [
+         "Kirk Baxter",
+         "Angus Wall"
+      ]
+   },
+   {
+      "category": "Melhor Guarda-Roupa",
+      "winners": [
+         "Alice in Wonderland"
+      ],
+      "info": [
+         "Colleen Atwood"
+      ]
+   },
+   {
+      "category": "Melhor Canção Original",
+      "winners": [
+         "Toy Story 3"
+      ],
+      "info": [
+         "Randy Newman"
+      ]
+   },
+   {
+      "category": "Melhor Banda Sonora Original",
+      "winners": [
+         "The Social Network"
+      ],
+      "info": [
+         "Trent Reznor",
+         "Atticus Ross"
+      ]
+   },
+   {
+      "category": "Melhor Mistura de Som",
+      "winners": [
+         "Inception"
+      ],
+      "info": [
+         "Lora Hirschberg",
+         "Gary A. Rizzo",
+         "Ed Novick"
+      ]
+   },
+   {
+      "category": "Melhor Montagem de Som",
+      "winners": [
+         "Inception"
+      ],
+      "info": [
+         "Richard King"
+      ]
+   },
+   {
+      "category": "Melhores Efeitos Visuais",
+      "winners": [
+         "Inception"
+      ],
+      "info": [
+         "Chris Corbould",
+         "Andrew Lockley",
+         "Pete Bebb",
+         "Paul J. Franklin"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Animação",
+      "winners": [
+         "The Lost Thing"
+      ],
+      "info": [
+         "Shaun Tan",
+         "Andrew Ruhemann"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Imagem Real",
+      "winners": [
+         "God of Love"
+      ],
+      "info": [
+         "Luke Matheny"
+      ]
+   },
+   {
+      "category": "Melhor Documentário, Curtas-Metragens",
+      "winners": [
+         "Strangers No More"
+      ],
+      "info": [
+         "Karen Goodman",
+         "Kirk Simon"
+      ]
+   },
+   {
+      "category": "Melhor Documentário, Longas-Metragens",
+      "winners": [
+         "Inside Job"
+      ],
+      "info": [
+         "Charles Ferguson",
+         "Audrey Marrs"
+      ]
+   },
+   {
+      "category": "Melhor Filme de Língua Estrangeira do Ano",
+      "winners": [
+         "In a Better World"
+      ],
+      "info": []
+   },
+   {
+      "category": "Melhor Filme de Animação do Ano",
+      "winners": [
+         "Toy Story 3"
+      ],
+      "info": [
+         "Lee Unkrich"
+      ]
+   },
+   {
+      "category": "Melhor Caracterização",
+      "winners": [
+         "The Wolfman"
+      ],
+      "info": [
+         "Rick Baker",
+         "Dave Elsey"
+      ]
+   }
+]

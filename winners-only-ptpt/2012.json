@@ -1,0 +1,231 @@
+[
+   {
+      "category": "Melhor Filme do Ano",
+      "winners": [
+         "The Artist"
+      ],
+      "info": [
+         "Thomas Langmann"
+      ]
+   },
+   {
+      "category": "Melhor Ator Principal",
+      "winners": [
+         "Jean Dujardin"
+      ],
+      "info": [
+         "The Artist"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Principal",
+      "winners": [
+         "Meryl Streep"
+      ],
+      "info": [
+         "The Iron Lady"
+      ]
+   },
+   {
+      "category": "Melhor Ator Secundário",
+      "winners": [
+         "Christopher Plummer"
+      ],
+      "info": [
+         "Beginners"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Secundária",
+      "winners": [
+         "Octavia Spencer"
+      ],
+      "info": [
+         "The Help"
+      ]
+   },
+   {
+      "category": "Melhor Realização",
+      "winners": [
+         "Michel Hazanavicius"
+      ],
+      "info": [
+         "The Artist"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Original",
+      "winners": [
+         "Midnight in Paris"
+      ],
+      "info": [
+         "Woody Allen"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Adaptado",
+      "winners": [
+         "The Descendants"
+      ],
+      "info": [
+         "Alexander Payne",
+         "Nat Faxon",
+         "Jim Rash"
+      ]
+   },
+   {
+      "category": "Melhor Fotografia",
+      "winners": [
+         "Hugo"
+      ],
+      "info": [
+         "Robert Richardson"
+      ]
+   },
+   {
+      "category": "Melhor Direção Artística",
+      "winners": [
+         "Hugo"
+      ],
+      "info": [
+         "Dante Ferretti",
+         "Francesca Lo Schiavo"
+      ]
+   },
+   {
+      "category": "Melhor Montagem",
+      "winners": [
+         "The Girl with the Dragon Tattoo"
+      ],
+      "info": [
+         "Angus Wall",
+         "Kirk Baxter"
+      ]
+   },
+   {
+      "category": "Melhor Guarda-Roupa",
+      "winners": [
+         "The Artist"
+      ],
+      "info": [
+         "Mark Bridges"
+      ]
+   },
+   {
+      "category": "Melhor Canção Original",
+      "winners": [
+         "The Muppets"
+      ],
+      "info": [
+         "Bret McKenzie"
+      ]
+   },
+   {
+      "category": "Melhor Banda Sonora Original",
+      "winners": [
+         "The Artist"
+      ],
+      "info": [
+         "Ludovic Bource"
+      ]
+   },
+   {
+      "category": "Melhor Mistura de Som",
+      "winners": [
+         "Hugo"
+      ],
+      "info": [
+         "Tom Fleischman",
+         "John Midgley"
+      ]
+   },
+   {
+      "category": "Melhor Montagem de Som",
+      "winners": [
+         "Hugo"
+      ],
+      "info": [
+         "Philip Stockton",
+         "Eugene Gearty"
+      ]
+   },
+   {
+      "category": "Melhores Efeitos Visuais",
+      "winners": [
+         "Hugo"
+      ],
+      "info": [
+         "Robert Legato",
+         "Joss Williams",
+         "Ben Grossmann",
+         "Alex Henning"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Animação",
+      "winners": [
+         "The Fantastic Flying Books of Mr. Morris Lessmore"
+      ],
+      "info": [
+         "William Joyce",
+         "Brandon Oldenburg"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Imagem Real",
+      "winners": [
+         "The Shore"
+      ],
+      "info": [
+         "Terry George",
+         "Oorlagh George"
+      ]
+   },
+   {
+      "category": "Melhor Documentário, Curtas-Metragens",
+      "winners": [
+         "Saving Face"
+      ],
+      "info": [
+         "Daniel Junge",
+         "Sharmeen Obaid-Chinoy"
+      ]
+   },
+   {
+      "category": "Melhor Documentário, Longas-Metragens",
+      "winners": [
+         "Undefeated"
+      ],
+      "info": [
+         "Daniel Lindsay",
+         "T.J. Martin",
+         "Rich Middlemas"
+      ]
+   },
+   {
+      "category": "Melhor Filme de Língua Estrangeira do Ano",
+      "winners": [
+         "A Separation"
+      ],
+      "info": []
+   },
+   {
+      "category": "Melhor Filme de Animação do Ano",
+      "winners": [
+         "Rango"
+      ],
+      "info": [
+         "Gore Verbinski"
+      ]
+   },
+   {
+      "category": "Melhor Caracterização",
+      "winners": [
+         "The Iron Lady"
+      ],
+      "info": [
+         "Mark Coulier",
+         "J. Roy Helland"
+      ]
+   }
+]

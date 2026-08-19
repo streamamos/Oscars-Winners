@@ -1,0 +1,237 @@
+[
+   {
+      "category": "Melhor Filme do Ano",
+      "winners": [
+         "12 Years a Slave"
+      ],
+      "info": [
+         "Brad Pitt",
+         "Dede Gardner",
+         "Jeremy Kleiner",
+         "Steve McQueen",
+         "Anthony Katagas"
+      ]
+   },
+   {
+      "category": "Melhor Ator Principal",
+      "winners": [
+         "Matthew McConaughey"
+      ],
+      "info": [
+         "Dallas Buyers Club"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Principal",
+      "winners": [
+         "Cate Blanchett"
+      ],
+      "info": [
+         "Blue Jasmine"
+      ]
+   },
+   {
+      "category": "Melhor Ator Secundário",
+      "winners": [
+         "Jared Leto"
+      ],
+      "info": [
+         "Dallas Buyers Club"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Secundária",
+      "winners": [
+         "Lupita Nyong'o"
+      ],
+      "info": [
+         "12 Years a Slave"
+      ]
+   },
+   {
+      "category": "Melhor Realização",
+      "winners": [
+         "Alfonso Cuar\u00f3n"
+      ],
+      "info": [
+         "Gravity"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Original",
+      "winners": [
+         "Her"
+      ],
+      "info": [
+         "Spike Jonze"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Adaptado",
+      "winners": [
+         "12 Years a Slave"
+      ],
+      "info": [
+         "John Ridley"
+      ]
+   },
+   {
+      "category": "Melhor Fotografia",
+      "winners": [
+         "Gravity"
+      ],
+      "info": [
+         "Emmanuel Lubezki"
+      ]
+   },
+   {
+      "category": "Melhor Montagem",
+      "winners": [
+         "Gravity"
+      ],
+      "info": [
+         "Alfonso Cuar\u00f3n",
+         "Mark Sanger"
+      ]
+   },
+   {
+      "category": "Melhor Design de Produção",
+      "winners": [
+         "The Great Gatsby"
+      ],
+      "info": [
+         "Catherine Martin",
+         "Beverley Dunn"
+      ]
+   },
+   {
+      "category": "Melhor Guarda-Roupa",
+      "winners": [
+         "The Great Gatsby"
+      ],
+      "info": [
+         "Catherine Martin"
+      ]
+   },
+   {
+      "category": "Melhor Caracterização e Penteados",
+      "winners": [
+         "Dallas Buyers Club"
+      ],
+      "info": [
+         "Adruitha Lee",
+         "Robin Mathews"
+      ]
+   },
+   {
+      "category": "Melhor Canção Original",
+      "winners": [
+         "Frozen"
+      ],
+      "info": [
+         "Kristen Anderson-Lopez",
+         "Robert Lopez"
+      ]
+   },
+   {
+      "category": "Melhor Banda Sonora Original",
+      "winners": [
+         "Gravity"
+      ],
+      "info": [
+         "Steven Price"
+      ]
+   },
+   {
+      "category": "Melhor Mistura de Som",
+      "winners": [
+         "Gravity"
+      ],
+      "info": [
+         "Skip Lievsay",
+         "Niv Adiri",
+         "Christopher Benstead",
+         "Chris Munro"
+      ]
+   },
+   {
+      "category": "Melhor Montagem de Som",
+      "winners": [
+         "Gravity"
+      ],
+      "info": [
+         "Glenn Freemantle"
+      ]
+   },
+   {
+      "category": "Melhores Efeitos Visuais",
+      "winners": [
+         "Gravity"
+      ],
+      "info": [
+         "Tim Webber",
+         "Chris Lawrence",
+         "David Shirk",
+         "Neil Corbould"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Animação",
+      "winners": [
+         "Mr Hublot"
+      ],
+      "info": [
+         "Laurent Witz",
+         "Alexandre Espigares"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Imagem Real",
+      "winners": [
+         "Helium"
+      ],
+      "info": [
+         "Anders Walter",
+         "Kim Magnusson"
+      ]
+   },
+   {
+      "category": "Melhor Documentário, Curtas-Metragens",
+      "winners": [
+         "The Lady in Number 6: Music Saved My Life"
+      ],
+      "info": [
+         "Malcolm Clarke",
+         "Nick Reed"
+      ]
+   },
+   {
+      "category": "Melhor Documentário, Longas-Metragens",
+      "winners": [
+         "20 Feet from Stardom"
+      ],
+      "info": [
+         "Morgan Neville",
+         "Gil Friesen",
+         "Caitrin Rogers"
+      ]
+   },
+   {
+      "category": "Melhor Filme de Língua Estrangeira do Ano",
+      "winners": [
+         "The Great Beauty"
+      ],
+      "info": []
+   },
+   {
+      "category": "Melhor Filme de Animação do Ano",
+      "winners": [
+         "Frozen"
+      ],
+      "info": [
+         "Chris Buck",
+         "Jennifer Lee",
+         "Peter Del Vecho"
+      ]
+   }
+]

@@ -1,0 +1,228 @@
+[
+   {
+      "category": "Melhor Filme do Ano",
+      "winners": [
+         "CODA"
+      ],
+      "info": [
+         "Philippe Rousselet",
+         "Fabrice Gianfermi",
+         "Patrick Wachsberger"
+      ]
+   },
+   {
+      "category": "Melhor Ator Principal",
+      "winners": [
+         "Will Smith"
+      ],
+      "info": [
+         "King Richard"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Principal",
+      "winners": [
+         "Jessica Chastain"
+      ],
+      "info": [
+         "The Eyes of Tammy Faye"
+      ]
+   },
+   {
+      "category": "Melhor Ator Secundário",
+      "winners": [
+         "Troy Kotsur"
+      ],
+      "info": [
+         "CODA"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Secundária",
+      "winners": [
+         "Ariana DeBose"
+      ],
+      "info": [
+         "West Side Story"
+      ]
+   },
+   {
+      "category": "Melhor Realização",
+      "winners": [
+         "Jane Campion"
+      ],
+      "info": [
+         "The Power of the Dog"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Original",
+      "winners": [
+         "Belfast"
+      ],
+      "info": [
+         "Kenneth Branagh"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Adaptado",
+      "winners": [
+         "CODA"
+      ],
+      "info": [
+         "Sian Heder"
+      ]
+   },
+   {
+      "category": "Melhor Fotografia",
+      "winners": [
+         "Dune"
+      ],
+      "info": [
+         "Greig Fraser"
+      ]
+   },
+   {
+      "category": "Melhor Montagem",
+      "winners": [
+         "Dune"
+      ],
+      "info": [
+         "Joe Walker"
+      ]
+   },
+   {
+      "category": "Melhor Design de Produção",
+      "winners": [
+         "Dune"
+      ],
+      "info": [
+         "Patrice Vermette",
+         "Zsuzsanna Sipos"
+      ]
+   },
+   {
+      "category": "Melhor Guarda-Roupa",
+      "winners": [
+         "Cruella"
+      ],
+      "info": [
+         "Jenny Beavan"
+      ]
+   },
+   {
+      "category": "Melhor Som",
+      "winners": [
+         "Dune"
+      ],
+      "info": [
+         "Mac Ruth",
+         "Mark A. Mangini",
+         "Theo Green",
+         "Doug Hemphill",
+         "Ron Bartlett"
+      ]
+   },
+   {
+      "category": "Melhor Caracterização e Penteados",
+      "winners": [
+         "The Eyes of Tammy Faye"
+      ],
+      "info": [
+         "Stephanie Ingram",
+         "Linda Dowds",
+         "Justin Raleigh"
+      ]
+   },
+   {
+      "category": "Melhor Banda Sonora Original",
+      "winners": [
+         "Dune"
+      ],
+      "info": [
+         "Hans Zimmer"
+      ]
+   },
+   {
+      "category": "Melhor Canção Original",
+      "winners": [
+         "No Time to Die"
+      ],
+      "info": [
+         "Billie Eilish",
+         "Finneas O'Connell"
+      ]
+   },
+   {
+      "category": "Melhores Efeitos Visuais",
+      "winners": [
+         "Dune"
+      ],
+      "info": [
+         "Paul Lambert",
+         "Tristan Myles",
+         "Brian Connor",
+         "Gerd Nefzer"
+      ]
+   },
+   {
+      "category": "Melhor Documentário de Longa-Metragem",
+      "winners": [
+         "Summer of Soul (...Or, When the Revolution Could Not Be Televised)"
+      ],
+      "info": [
+         "Questlove",
+         "Joseph Patel",
+         "Robert Fyvolent",
+         "David Dinerstein"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem Documental",
+      "winners": [
+         "The Queen of Basketball"
+      ],
+      "info": [
+         "Ben Proudfoot"
+      ]
+   },
+   {
+      "category": "Melhor Filme de Animação",
+      "winners": [
+         "Encanto"
+      ],
+      "info": [
+         "Jared Bush",
+         "Byron Howard",
+         "Yvett Merino",
+         "Clark Spencer"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Animação",
+      "winners": [
+         "The Windshield Wiper"
+      ],
+      "info": [
+         "Alberto Mielgo",
+         "Leo Sanchez Barbosa"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Imagem Real",
+      "winners": [
+         "The Long Goodbye"
+      ],
+      "info": [
+         "Aneil Karia",
+         "Riz Ahmed"
+      ]
+   },
+   {
+      "category": "Melhor Filme Internacional",
+      "winners": [
+         "Drive My Car"
+      ],
+      "info": []
+   }
+]

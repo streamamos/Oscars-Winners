@@ -1,0 +1,234 @@
+[
+   {
+      "category": "Melhor Filme do Ano",
+      "winners": [
+         "Crash"
+      ],
+      "info": [
+         "Paul Haggis",
+         "Cathy Schulman"
+      ]
+   },
+   {
+      "category": "Melhor Ator Principal",
+      "winners": [
+         "Philip Seymour Hoffman"
+      ],
+      "info": [
+         "Capote"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Principal",
+      "winners": [
+         "Reese Witherspoon"
+      ],
+      "info": [
+         "Walk the Line"
+      ]
+   },
+   {
+      "category": "Melhor Ator Secundário",
+      "winners": [
+         "George Clooney"
+      ],
+      "info": [
+         "Syriana"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Secundária",
+      "winners": [
+         "Rachel Weisz"
+      ],
+      "info": [
+         "The Constant Gardener"
+      ]
+   },
+   {
+      "category": "Melhor Realização",
+      "winners": [
+         "Ang Lee"
+      ],
+      "info": [
+         "Brokeback Mountain"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Original",
+      "winners": [
+         "Crash"
+      ],
+      "info": [
+         "Paul Haggis",
+         "Bobby Moresco"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Adaptado",
+      "winners": [
+         "Brokeback Mountain"
+      ],
+      "info": [
+         "Larry McMurtry",
+         "Diana Ossana"
+      ]
+   },
+   {
+      "category": "Melhor Fotografia",
+      "winners": [
+         "Memoirs of a Geisha"
+      ],
+      "info": [
+         "Dion Beebe"
+      ]
+   },
+   {
+      "category": "Melhor Direção Artística",
+      "winners": [
+         "Memoirs of a Geisha"
+      ],
+      "info": [
+         "John Myhre",
+         "Gretchen Rau"
+      ]
+   },
+   {
+      "category": "Melhor Montagem",
+      "winners": [
+         "Crash"
+      ],
+      "info": [
+         "Hughes Winborne"
+      ]
+   },
+   {
+      "category": "Melhor Guarda-Roupa",
+      "winners": [
+         "Memoirs of a Geisha"
+      ],
+      "info": [
+         "Colleen Atwood"
+      ]
+   },
+   {
+      "category": "Melhor Canção Original",
+      "winners": [
+         "Hustle & Flow"
+      ],
+      "info": [
+         "Juicy J",
+         "Cedric Coleman",
+         "D.J. Paul"
+      ]
+   },
+   {
+      "category": "Melhor Banda Sonora Original",
+      "winners": [
+         "Brokeback Mountain"
+      ],
+      "info": [
+         "Gustavo Santaolalla"
+      ]
+   },
+   {
+      "category": "Melhor Mistura de Som",
+      "winners": [
+         "King Kong"
+      ],
+      "info": [
+         "Christopher Boyes",
+         "Michael Semanick",
+         "Michael Hedges",
+         "Hammond Peek"
+      ]
+   },
+   {
+      "category": "Melhor Montagem de Som",
+      "winners": [
+         "King Kong"
+      ],
+      "info": [
+         "Mike Hopkins",
+         "Ethan Van der Ryn"
+      ]
+   },
+   {
+      "category": "Melhores Efeitos Visuais",
+      "winners": [
+         "King Kong"
+      ],
+      "info": [
+         "Joe Letteri",
+         "Brian Van't Hul",
+         "Christian Rivers",
+         "Richard Taylor"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Animação",
+      "winners": [
+         "The Moon and the Son: An Imagined Conversation"
+      ],
+      "info": [
+         "John Canemaker",
+         "Peggy Stern"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Imagem Real",
+      "winners": [
+         "Six Shooter"
+      ],
+      "info": [
+         "Martin McDonagh"
+      ]
+   },
+   {
+      "category": "Melhor Documentário, Curtas-Metragens",
+      "winners": [
+         "A Note of Triumph: The Golden Age of Norman Corwin"
+      ],
+      "info": [
+         "Corinne Marrinan",
+         "Eric Simonson"
+      ]
+   },
+   {
+      "category": "Melhor Documentário, Longas-Metragens",
+      "winners": [
+         "March of the Penguins"
+      ],
+      "info": [
+         "Luc Jacquet",
+         "Yves Darondeau"
+      ]
+   },
+   {
+      "category": "Melhor Filme de Língua Estrangeira do Ano",
+      "winners": [
+         "Tsotsi"
+      ],
+      "info": []
+   },
+   {
+      "category": "Melhor Filme de Animação do Ano",
+      "winners": [
+         "Wallace & Gromit: The Curse of the Were-Rabbit"
+      ],
+      "info": [
+         "Steve Box",
+         "Nick Park"
+      ]
+   },
+   {
+      "category": "Melhor Caracterização",
+      "winners": [
+         "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
+      ],
+      "info": [
+         "Howard Berger",
+         "Tami Lane"
+      ]
+   }
+]

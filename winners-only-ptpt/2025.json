@@ -1,0 +1,229 @@
+[
+   {
+      "category": "Melhor Filme do Ano",
+      "winners": [
+         "Anora"
+      ],
+      "info": [
+         "Alex Coco",
+         "Samantha Quan",
+         "Sean Baker"
+      ]
+   },
+   {
+      "category": "Melhor Ator Principal",
+      "winners": [
+         "Adrien Brody"
+      ],
+      "info": [
+         "The Brutalist"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Principal",
+      "winners": [
+         "Mikey Madison"
+      ],
+      "info": [
+         "Anora"
+      ]
+   },
+   {
+      "category": "Melhor Ator Secundário",
+      "winners": [
+         "Kieran Culkin"
+      ],
+      "info": [
+         "A Real Pain"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Secundária",
+      "winners": [
+         "Zoe Salda\u00f1a"
+      ],
+      "info": [
+         "Emilia P\u00e9rez"
+      ]
+   },
+   {
+      "category": "Melhor Realização",
+      "winners": [
+         "Sean Baker"
+      ],
+      "info": [
+         "Anora"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Original",
+      "winners": [
+         "Anora"
+      ],
+      "info": [
+         "Sean Baker"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Adaptado",
+      "winners": [
+         "Conclave"
+      ],
+      "info": [
+         "Peter Straughan"
+      ]
+   },
+   {
+      "category": "Melhor Fotografia",
+      "winners": [
+         "The Brutalist"
+      ],
+      "info": [
+         "Lol Crawley"
+      ]
+   },
+   {
+      "category": "Melhor Montagem",
+      "winners": [
+         "Anora"
+      ],
+      "info": [
+         "Sean Baker"
+      ]
+   },
+   {
+      "category": "Melhor Design de Produção",
+      "winners": [
+         "Wicked"
+      ],
+      "info": [
+         "Nathan Crowley",
+         "Lee Sandales"
+      ]
+   },
+   {
+      "category": "Melhor Guarda-Roupa",
+      "winners": [
+         "Wicked"
+      ],
+      "info": [
+         "Paul Tazewell"
+      ]
+   },
+   {
+      "category": "Melhor Som",
+      "winners": [
+         "Dune: Part Two"
+      ],
+      "info": [
+         "Gareth John",
+         "Richard King",
+         "Ron Bartlett",
+         "Doug Hemphill"
+      ]
+   },
+   {
+      "category": "Melhor Caracterização e Penteados",
+      "winners": [
+         "The Substance"
+      ],
+      "info": [
+         "Pierre Olivier Persin",
+         "St\u00e9phanie Guillon",
+         "Marilyne Scarselli"
+      ]
+   },
+   {
+      "category": "Melhor Banda Sonora Original",
+      "winners": [
+         "The Brutalist"
+      ],
+      "info": [
+         "Daniel Blumberg"
+      ]
+   },
+   {
+      "category": "Melhor Canção Original",
+      "winners": [
+         "Emilia P\u00e9rez"
+      ],
+      "info": [
+         "Cl\u00e9ment Ducol",
+         "Camille",
+         "Jacques Audiard"
+      ]
+   },
+   {
+      "category": "Melhores Efeitos Visuais",
+      "winners": [
+         "Dune: Part Two"
+      ],
+      "info": [
+         "Paul Lambert",
+         "Stephen James",
+         "Rhys Salcombe",
+         "Gerd Nefzer"
+      ]
+   },
+   {
+      "category": "Melhor Documentário de Longa-Metragem",
+      "winners": [
+         "No Other Land"
+      ],
+      "info": [
+         "Basel Adra",
+         "Rachel Szor",
+         "Hamdan Ballal",
+         "Yuval Abraham"
+      ]
+   },
+   {
+      "category": "Melhor Filme de Animação",
+      "winners": [
+         "Flow"
+      ],
+      "info": [
+         "Gints Zilbalodis",
+         "Ron Dyens",
+         "Matiss Kaza",
+         "Gregory Zalcman"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Animação",
+      "winners": [
+         "In the Shadow of the Cypress"
+      ],
+      "info": [
+         "Shirin Sohani",
+         "Hossein Molayemi"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Imagem Real",
+      "winners": [
+         "I'm Not a Robot"
+      ],
+      "info": [
+         "Trent",
+         "Victoria Warmerdam"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem Documental",
+      "winners": [
+         "The Only Girl in the Orchestra"
+      ],
+      "info": [
+         "Molly O'Brien",
+         "Lisa Remington"
+      ]
+   },
+   {
+      "category": "Melhor Filme Internacional",
+      "winners": [
+         "I'm Still Here"
+      ],
+      "info": []
+   }
+]

@@ -1,0 +1,229 @@
+[
+   {
+      "category": "Melhor Filme",
+      "winners": [
+         "A Beautiful Mind"
+      ],
+      "info": [
+         "Brian Grazer",
+         "Ron Howard"
+      ]
+   },
+   {
+      "category": "Melhor Ator Principal",
+      "winners": [
+         "Denzel Washington"
+      ],
+      "info": [
+         "Training Day"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Principal",
+      "winners": [
+         "Halle Berry"
+      ],
+      "info": [
+         "Monster's Ball"
+      ]
+   },
+   {
+      "category": "Melhor Ator Secundário",
+      "winners": [
+         "Jim Broadbent"
+      ],
+      "info": [
+         "Iris"
+      ]
+   },
+   {
+      "category": "Melhor Atriz Secundária",
+      "winners": [
+         "Jennifer Connelly"
+      ],
+      "info": [
+         "A Beautiful Mind"
+      ]
+   },
+   {
+      "category": "Melhor Realização",
+      "winners": [
+         "Ron Howard"
+      ],
+      "info": [
+         "A Beautiful Mind"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Escrito Diretamente para o Ecrã",
+      "winners": [
+         "Gosford Park"
+      ],
+      "info": [
+         "Julian Fellowes"
+      ]
+   },
+   {
+      "category": "Melhor Argumento Baseado em Material Previamente Produzido ou Publicado",
+      "winners": [
+         "A Beautiful Mind"
+      ],
+      "info": [
+         "Akiva Goldsman"
+      ]
+   },
+   {
+      "category": "Melhor Filme de Língua Estrangeira",
+      "winners": [
+         "No Man's Land"
+      ],
+      "info": []
+   },
+   {
+      "category": "Melhor Fotografia",
+      "winners": [
+         "The Lord of the Rings: The Fellowship of the Ring"
+      ],
+      "info": [
+         "Andrew Lesnie"
+      ]
+   },
+   {
+      "category": "Melhor Direção Artística — Decoração de Cenários",
+      "winners": [
+         "Moulin Rouge!"
+      ],
+      "info": [
+         "Catherine Martin",
+         "Brigitte Broch"
+      ]
+   },
+   {
+      "category": "Melhor Guarda-Roupa",
+      "winners": [
+         "Moulin Rouge!"
+      ],
+      "info": [
+         "Catherine Martin",
+         "Angus Strathie"
+      ]
+   },
+   {
+      "category": "Melhor Som",
+      "winners": [
+         "Black Hawk Down"
+      ],
+      "info": [
+         "Michael Minkler",
+         "Myron Nettinga",
+         "Chris Munro"
+      ]
+   },
+   {
+      "category": "Melhor Montagem de Som",
+      "winners": [
+         "Pearl Harbor"
+      ],
+      "info": [
+         "Christopher Boyes",
+         "George Watters II"
+      ]
+   },
+   {
+      "category": "Melhor Montagem",
+      "winners": [
+         "Black Hawk Down"
+      ],
+      "info": [
+         "Pietro Scalia"
+      ]
+   },
+   {
+      "category": "Melhores Efeitos Visuais",
+      "winners": [
+         "The Lord of the Rings: The Fellowship of the Ring"
+      ],
+      "info": [
+         "Jim Rygiel",
+         "Randall William Cook",
+         "Richard Taylor",
+         "Mark Stetson"
+      ]
+   },
+   {
+      "category": "Melhor Caracterização",
+      "winners": [
+         "The Lord of the Rings: The Fellowship of the Ring"
+      ],
+      "info": [
+         "Peter Owen",
+         "Richard Taylor"
+      ]
+   },
+   {
+      "category": "Melhor Canção Original",
+      "winners": [
+         "Monsters, Inc."
+      ],
+      "info": [
+         "Randy Newman"
+      ]
+   },
+   {
+      "category": "Melhor Banda Sonora Original",
+      "winners": [
+         "The Lord of the Rings: The Fellowship of the Ring"
+      ],
+      "info": [
+         "Howard Shore"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Animação",
+      "winners": [
+         "For the Birds"
+      ],
+      "info": [
+         "Ralph Eggleston"
+      ]
+   },
+   {
+      "category": "Melhor Curta-Metragem de Imagem Real",
+      "winners": [
+         "The Accountant"
+      ],
+      "info": [
+         "Ray McKinnon",
+         "Lisa Blount"
+      ]
+   },
+   {
+      "category": "Melhor Documentário, Curtas-Metragens",
+      "winners": [
+         "Thoth"
+      ],
+      "info": [
+         "Sarah Kernochan",
+         "Lynn Appelle"
+      ]
+   },
+   {
+      "category": "Melhor Documentário, Longas-Metragens",
+      "winners": [
+         "Murder on a Sunday Morning"
+      ],
+      "info": [
+         "Jean-Xavier de Lestrade",
+         "Denis Poncet"
+      ]
+   },
+   {
+      "category": "Melhor Filme de Animação",
+      "winners": [
+         "Shrek"
+      ],
+      "info": [
+         "Aron Warner"
+      ]
+   }
+]
